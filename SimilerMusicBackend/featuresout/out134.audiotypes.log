@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/globe/THE_GREATEST_HITS_-小室哲哉作品集_a-_[Disc_1]/03-Feel_Like_dance(1).mp3,ffmpeg,44100,16,2,15671808

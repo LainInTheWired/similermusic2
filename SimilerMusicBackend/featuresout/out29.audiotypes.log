@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Various_Artists/THE_GREATEST_HITS_-小室哲哉作品集_S-_[Disc_1]/02_寒い夜だから.._.mp3,ffmpeg,44100,16,2,13554432

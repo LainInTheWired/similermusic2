@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/AC_DC/Black_Ice/04_Anything_Goes.mp3,ffmpeg,44100,16,2,8916480

@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Led_Zeppelin/Remasters_[Disc_2]/2-10_All_My_Love.mp3,ffmpeg,44100,16,2,15490944

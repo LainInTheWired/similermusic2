@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Bon_Jovi/Greatest_Hits__The_Ultimate_Collection_[Disc_2]/08_Bed_Of_Roses.mp3,ffmpeg,44100,16,2,17376768

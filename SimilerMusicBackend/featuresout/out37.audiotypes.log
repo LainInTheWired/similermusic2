@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Various_Artists/CHAOS;HEAD_VOCAL_COLLECTION_[Disc_2]/11_ちいさな声に気づいて.mp3,ffmpeg,44100,16,2,11752704

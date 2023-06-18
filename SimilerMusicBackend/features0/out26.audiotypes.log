@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//601~700/626_顔のない群衆.mp3,ffmpeg,44100,16,2,8103375
+/root/sim/music//601~700/654_忘れてたー！.mp3,ffmpeg,44100,16,2,3310848
+/root/sim/music//601~700/700_Asymmetry.mp3,ffmpeg,44100,16,2,5913267
+/root/sim/music//601~700/699_驚愕の真実.mp3,ffmpeg,44100,16,2,475776
+/root/sim/music//601~700/652_海風の通り道.mp3,ffmpeg,44100,16,2,5490432
+/root/sim/music//601~700/603_身を縛る鎖は過去的なBGM.mp3,ffmpeg,44100,16,2,5761152
+/root/sim/music//601~700/666_雨上がりの空気の匂いが好きなの.mp3,ffmpeg,44100,16,2,2662935
+/root/sim/music//601~700/670_Freedom_City.mp3,ffmpeg,44100,16,2,9172800
+/root/sim/music//601~700/616_美味いキノコにゃ毒がある.mp3,ffmpeg,44100,16,2,3398523
+/root/sim/music//601~700/607_終わらない雨とモントリオール.mp3,ffmpeg,44100,16,2,3750969
+/root/sim/music//601~700/694_The_Days.mp3,ffmpeg,44100,16,2,7029504
+/root/sim/music//601~700/656_昏睡の雨〜COMA_RAIN〜.mp3,ffmpeg,44100,16,2,11089213
+/root/sim/music//601~700/602_In_the_fog.mp3,ffmpeg,44100,16,2,6028647
+/root/sim/music//601~700/695_In_the_Breeze.mp3,ffmpeg,44100,16,2,5082624
+/root/sim/music//601~700/620_introduction.mp3,ffmpeg,44100,16,2,1844352
+/root/sim/music//601~700/627_金魚救い.mp3,ffmpeg,44100,16,2,2763483
+/root/sim/music//601~700/671_ネオントラベラー.mp3,ffmpeg,44100,16,2,11508397
+/root/sim/music//601~700/678_Sunflower.mp3,ffmpeg,44100,16,2,7338240
+/root/sim/music//601~700/658_推理.mp3,ffmpeg,44100,16,2,3704400
+/root/sim/music//601~700/639_Filter_Luv.mp3,ffmpeg,44100,16,2,6217041
+/root/sim/music//601~700/667_海底に眠る響き.mp3,ffmpeg,44100,16,2,5774976
+/root/sim/music//601~700/687_どこまでもワンダーランド.mp3,ffmpeg,44100,16,2,4781952
+/root/sim/music//601~700/669_夏のある日.mp3,ffmpeg,44100,16,2,3893760
+/root/sim/music//601~700/608_疾走.mp3,ffmpeg,44100,16,2,4656960
+/root/sim/music//601~700/676_夕暮れのポラロイド.mp3,ffmpeg,44100,16,2,10508544

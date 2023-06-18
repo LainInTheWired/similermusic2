@@ -1,0 +1,14 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//801~900/894_Only_You.mp3,ffmpeg,44100,16,2,9264384
+/root/sim/music//801~900/898_小さなレモンタルト.mp3,ffmpeg,44100,16,2,5427072
+/root/sim/music//801~900/892_おさかなどろぼう現る.mp3,ffmpeg,44100,16,2,7122816
+/root/sim/music//801~900/869_こぐま座は見つからないけど.mp3,ffmpeg,44100,16,2,4256885
+/root/sim/music//801~900/875_STARDUST_LEMON.mp3,ffmpeg,44100,16,2,7398066
+/root/sim/music//801~900/828_逃げた実験体.mp3,ffmpeg,44100,16,2,7944192
+/root/sim/music//801~900/887_騒がしい日常の始まり！.mp3,ffmpeg,44100,16,2,6181679
+/root/sim/music//801~900/850_Smile_For_It.mp3,ffmpeg,44100,16,2,6866900
+/root/sim/music//801~900/889_Behind_the_Stars.mp3,ffmpeg,44100,16,2,4663296
+/root/sim/music//801~900/890_旭のもののふ.mp3,ffmpeg,44100,16,2,9300096
+/root/sim/music//801~900/806_EMERGENCY.mp3,ffmpeg,44100,16,2,6086177
+/root/sim/music//801~900/816_Synthetic_Vox.mp3,ffmpeg,44100,16,2,5292000
+/root/sim/music//801~900/822_ヒカリの雫.mp3,ffmpeg,44100,16,2,6050304

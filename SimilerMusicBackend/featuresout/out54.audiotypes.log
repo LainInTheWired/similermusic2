@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Nirvana/Nirvana_[Japan]/10_Pennyroyal_Tea.mp3,ffmpeg,44100,16,2,9627264

@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//901~1000/947_three_leaves.mp3,ffmpeg,44100,16,2,4372992
+/root/sim/music//901~1000/914_OUTLINE.mp3,ffmpeg,44100,16,2,7225375
+/root/sim/music//901~1000/903_難問トーカー.mp3,ffmpeg,44100,16,2,4132224
+/root/sim/music//901~1000/975_水辺のピアノ.mp3,ffmpeg,44100,16,2,5294592
+/root/sim/music//901~1000/905_ムーンライトSad倍速.mp3,ffmpeg,44100,16,2,3671589
+/root/sim/music//901~1000/930_木こりの森.mp3,ffmpeg,44100,16,2,5590656
+/root/sim/music//901~1000/915_Death_Borg.mp3,ffmpeg,44100,16,2,6965280
+/root/sim/music//901~1000/943_Miracle_Future!.mp3,ffmpeg,44100,16,2,5214737
+/root/sim/music//901~1000/937_Show_Window.mp3,ffmpeg,44100,16,2,5839449
+/root/sim/music//901~1000/909_Time_for_Rest.mp3,ffmpeg,44100,16,2,5910912
+/root/sim/music//901~1000/989_Walking_by_the_seaside.mp3,ffmpeg,44100,16,2,4728932
+/root/sim/music//901~1000/932_恋するカエル.mp3,ffmpeg,44100,16,2,5559552
+/root/sim/music//901~1000/946_ぶらり王国、街歩き.mp3,ffmpeg,44100,16,2,5773090
+/root/sim/music//901~1000/927_Blue_Thunder.mp3,ffmpeg,44100,16,2,6687360
+/root/sim/music//901~1000/987_Power_to_Believe.mp3,ffmpeg,44100,16,2,5880000
+/root/sim/music//901~1000/912_Black_Phoenix.mp3,ffmpeg,44100,16,2,2681856
+/root/sim/music//901~1000/913_run_out.mp3,ffmpeg,44100,16,2,4157568
+/root/sim/music//901~1000/902__in_the_blue_moment.mp3,ffmpeg,44100,16,2,10308375
+/root/sim/music//901~1000/953_Sporting_News.mp3,ffmpeg,44100,16,2,7743093
+/root/sim/music//901~1000/972_猫耳すぷれましー！.mp3,ffmpeg,44100,16,2,12901896
+/root/sim/music//901~1000/941_変わりゆく世界.mp3,ffmpeg,44100,16,2,4231296
+/root/sim/music//901~1000/986_笑顔で.mp3,ffmpeg,44100,16,2,4237056
+/root/sim/music//901~1000/997_Gardenia.mp3,ffmpeg,44100,16,2,6894720
+/root/sim/music//901~1000/991__美味しい！和食_.mp3,ffmpeg,44100,16,2,2696832
+/root/sim/music//901~1000/920_線路花.mp3,ffmpeg,44100,16,2,14347008

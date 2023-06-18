@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Bryan_Adams/MTV_Unplugged_[Bonus_Track]/06_When_You_Love_Someone.mp3,ffmpeg,44100,16,2,9770112

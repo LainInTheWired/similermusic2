@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//801~900/803_窓の外.mp3,ffmpeg,44100,16,2,4717440
+/root/sim/music//801~900/882_まどろむ.mp3,ffmpeg,44100,16,2,8731008
+/root/sim/music//801~900/856_ひつじワールド.mp3,ffmpeg,44100,16,2,5584896
+/root/sim/music//801~900/870_BABY_FACE.mp3,ffmpeg,44100,16,2,6743730
+/root/sim/music//801~900/846_なんかいいことないかな～的なBGM.mp3,ffmpeg,44100,16,2,4052613
+/root/sim/music//801~900/859_Strange_Strings.mp3,ffmpeg,44100,16,2,4939200
+/root/sim/music//801~900/884_Zen.mp3,ffmpeg,44100,16,2,4579474
+/root/sim/music//801~900/831_白塵の遊具.mp3,ffmpeg,44100,16,2,7532895
+/root/sim/music//801~900/804_神の棲み処.mp3,ffmpeg,44100,16,2,11653632
+/root/sim/music//801~900/821_空と山と海と.mp3,ffmpeg,44100,16,2,5202432
+/root/sim/music//801~900/840_傘をさして.mp3,ffmpeg,44100,16,2,4235904
+/root/sim/music//801~900/829_Evil_City.mp3,ffmpeg,44100,16,2,4410000
+/root/sim/music//801~900/802_夢の中でも、あなたと。.mp3,ffmpeg,44100,16,2,6855257
+/root/sim/music//801~900/833_風に歌、君に愛を.mp3,ffmpeg,44100,16,2,8934660
+/root/sim/music//801~900/830_沖縄探訪.mp3,ffmpeg,44100,16,2,6197760
+/root/sim/music//801~900/832_歴戦の剣士.mp3,ffmpeg,44100,16,2,6177024
+/root/sim/music//801~900/801_コミカルな日常.mp3,ffmpeg,44100,16,2,3492720
+/root/sim/music//801~900/810_Vector_Space.mp3,ffmpeg,44100,16,2,6193600
+/root/sim/music//801~900/820_這い寄る異形.mp3,ffmpeg,44100,16,2,7618176
+/root/sim/music//801~900/857_Poppy.mp3,ffmpeg,44100,16,2,4942080
+/root/sim/music//801~900/897_梅雨晴れ.mp3,ffmpeg,44100,16,2,2165760
+/root/sim/music//801~900/824_Olive_Time.mp3,ffmpeg,44100,16,2,7267680
+/root/sim/music//801~900/825_いつでもピース.mp3,ffmpeg,44100,16,2,4034304
+/root/sim/music//801~900/879_いつもの景色.mp3,ffmpeg,44100,16,2,4033152
+/root/sim/music//801~900/813_前を向けるのは、前を向こうとした人だけなんじゃないかな？.mp3,ffmpeg,44100,16,2,4489733

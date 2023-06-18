@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/AC_DC/Iron_Man_2/01_Shoot_To_Thrill.mp3,ffmpeg,44100,16,2,14082048

@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/The_Jesus_And_Mary_Chain/Automatic/03_Blues_From_A_Gun.mp3,ffmpeg,44100,16,2,12525696

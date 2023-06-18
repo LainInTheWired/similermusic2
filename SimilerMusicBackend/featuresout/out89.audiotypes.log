@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/X/STAR_BOX/09_WEEK_END_[Live].mp3,ffmpeg,44100,16,2,15850368

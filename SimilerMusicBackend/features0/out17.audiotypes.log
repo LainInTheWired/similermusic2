@@ -1,0 +1,27 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//501~600/510_Highway_Mermaid.mp3,ffmpeg,44100,16,2,8918079
+/root/sim/music//501~600/521_サクラソウ.mp3,ffmpeg,44100,16,2,3392640
+/root/sim/music//501~600/582_鈍行列車.mp3,ffmpeg,44100,16,2,4215168
+/root/sim/music//501~600/592_帰り道.mp3,ffmpeg,44100,16,2,4534185
+/root/sim/music//501~600/580_たき火の前で.mp3,ffmpeg,44100,16,2,6082125
+/root/sim/music//501~600/594_Azami.mp3,ffmpeg,44100,16,2,4942080
+/root/sim/music//501~600/562_そういう夏ばっかりだった.mp3,ffmpeg,44100,16,2,6618176
+/root/sim/music//501~600/525_水車.mp3,ffmpeg,44100,16,2,4942080
+/root/sim/music//501~600/547_Kindly.mp3,ffmpeg,44100,16,2,4589568
+/root/sim/music//501~600/550_procedure.mp3,ffmpeg,44100,16,2,3972096
+/root/sim/music//501~600/590_City_Break_Time.mp3,ffmpeg,44100,16,2,7938000
+/root/sim/music//501~600/572_Napper&#039s_Island.mp3,ffmpeg,44100,16,2,2309760
+/root/sim/music//501~600/545_Bright_Green_Winds.mp3,ffmpeg,44100,16,2,4942080
+/root/sim/music//501~600/503_シフォンケーキ.mp3,ffmpeg,44100,16,2,5294592
+/root/sim/music//501~600/531_描きかけの肖像画.mp3,ffmpeg,44100,16,2,6338304
+/root/sim/music//501~600/511_8月、神様も線香花火をしたいの。.mp3,ffmpeg,44100,16,2,3900204
+/root/sim/music//501~600/559_Midnight_Street.mp3,ffmpeg,44100,16,2,9997647
+/root/sim/music//501~600/541_海を渡る大木.mp3,ffmpeg,44100,16,2,3715200
+/root/sim/music//501~600/599_Work_State.mp3,ffmpeg,44100,16,2,2303079
+/root/sim/music//501~600/567_思い出せない声.mp3,ffmpeg,44100,16,2,4763520
+/root/sim/music//501~600/509_Swaying_Leaves.mp3,ffmpeg,44100,16,2,5701248
+/root/sim/music//501~600/569_不思議の理由.mp3,ffmpeg,44100,16,2,5349888
+/root/sim/music//501~600/577_おセンチメンタルな気持ち.mp3,ffmpeg,44100,16,2,5036925
+/root/sim/music//501~600/573_Smooth_City.mp3,ffmpeg,44100,16,2,6938400
+/root/sim/music//501~600/528_楽しい食事.mp3,ffmpeg,44100,16,2,3468672
+/root/sim/music//501~600/560_City_Lights.mp3,ffmpeg,44100,16,2,5970461

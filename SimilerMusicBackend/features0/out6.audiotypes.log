@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//201~300/261_やってみよう！.mp3,ffmpeg,44100,16,2,4235904
+/root/sim/music//201~300/298_叶わぬ願い.mp3,ffmpeg,44100,16,2,5412045
+/root/sim/music//201~300/284_爽やかほうじ茶.mp3,ffmpeg,44100,16,2,5894784
+/root/sim/music//201~300/231_New_Days.mp3,ffmpeg,44100,16,2,3344256
+/root/sim/music//201~300/258_Demon_Rush.mp3,ffmpeg,44100,16,2,2312064
+/root/sim/music//201~300/239_勝ちパターン、入りました！的なBGM.mp3,ffmpeg,44100,16,2,4929408
+/root/sim/music//201~300/238_Smiling_Days.mp3,ffmpeg,44100,16,2,477750
+/root/sim/music//201~300/219_ランタン.mp3,ffmpeg,44100,16,2,7875072
+/root/sim/music//201~300/285_子猫の大冒険.mp3,ffmpeg,44100,16,2,4498200
+/root/sim/music//201~300/295_ピーチソーダ.mp3,ffmpeg,44100,16,2,3468672
+/root/sim/music//201~300/235_In_My_Dreams.mp3,ffmpeg,44100,16,2,9434880
+/root/sim/music//201~300/256_China_Pop.mp3,ffmpeg,44100,16,2,3074688
+/root/sim/music//201~300/262_Bellflower.mp3,ffmpeg,44100,16,2,5647104
+/root/sim/music//201~300/220_透明の街.mp3,ffmpeg,44100,16,2,11326464
+/root/sim/music//201~300/247_Role_of_Person.mp3,ffmpeg,44100,16,2,1111320
+/root/sim/music//201~300/293_Starlight_Cafe.mp3,ffmpeg,44100,16,2,9334500
+/root/sim/music//201~300/251_Hurdle_Sprint.mp3,ffmpeg,44100,16,2,3787957
+/root/sim/music//201~300/230_Strolling_on_The_Street.mp3,ffmpeg,44100,16,2,7673400
+/root/sim/music//201~300/283_アイシングクッキーのお友達.mp3,ffmpeg,44100,16,2,4589568
+/root/sim/music//201~300/223_In_to_the_Sky.mp3,ffmpeg,44100,16,2,5488000
+/root/sim/music//201~300/244_Fancy_Pop.mp3,ffmpeg,44100,16,2,3197250
+/root/sim/music//201~300/255_秋風.mp3,ffmpeg,44100,16,2,4498200
+/root/sim/music//201~300/208_Pass_Through.mp3,ffmpeg,44100,16,2,5947200
+/root/sim/music//201~300/216_jingle15.mp3,ffmpeg,44100,16,2,986112
+/root/sim/music//201~300/217_明るい空.mp3,ffmpeg,44100,16,2,617400

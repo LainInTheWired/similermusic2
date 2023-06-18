@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Billy_Joel/Greatest_Hits_-_Volume_I_&_Volume_II_[Disc_2]/03_You_May_Be_Right.mp3,ffmpeg,44100,16,2,10214784

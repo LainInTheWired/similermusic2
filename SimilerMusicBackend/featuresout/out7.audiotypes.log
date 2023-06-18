@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/仕分け前/SINGLES_B-side_BEST_[Disc_1]/1-07_そして星になったよ.mp3,ffmpeg,44100,16,2,11362176

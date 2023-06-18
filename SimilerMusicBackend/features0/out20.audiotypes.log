@@ -1,0 +1,27 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//101~200/143_びいどろの瞳.mp3,ffmpeg,44100,16,2,4947840
+/root/sim/music//101~200/120_Away_from_the_moment.mp3,ffmpeg,44100,16,2,13114368
+/root/sim/music//101~200/127_Dancing_Robot.mp3,ffmpeg,44100,16,2,3851136
+/root/sim/music//101~200/121_Funky_weekend_night.mp3,ffmpeg,44100,16,2,6137296
+/root/sim/music//101~200/122_君が降りたバス停.mp3,ffmpeg,44100,16,2,10462464
+/root/sim/music//101~200/162_ゆきどけ.mp3,ffmpeg,44100,16,2,6260436
+/root/sim/music//101~200/198_Saturday_morning.mp3,ffmpeg,44100,16,2,11589480
+/root/sim/music//101~200/190_rainy_night_city.mp3,ffmpeg,44100,16,2,6617117
+/root/sim/music//101~200/133_For_Return_Trip.mp3,ffmpeg,44100,16,2,4317696
+/root/sim/music//101~200/178_Walk_lakeside.mp3,ffmpeg,44100,16,2,5347584
+/root/sim/music//101~200/117_カエルの勇者.mp3,ffmpeg,44100,16,2,3878784
+/root/sim/music//101~200/125_スターもありがとナイスタ！.mp3,ffmpeg,44100,16,2,17003196
+/root/sim/music//101~200/151_和心.mp3,ffmpeg,44100,16,2,3082061
+/root/sim/music//101~200/119_大慌て.mp3,ffmpeg,44100,16,2,2251008
+/root/sim/music//101~200/106_ワンダーランド.mp3,ffmpeg,44100,16,2,11531520
+/root/sim/music//101~200/156_ハッピープレゼント.mp3,ffmpeg,44100,16,2,4857984
+/root/sim/music//101~200/124_ヒーロー.mp3,ffmpeg,44100,16,2,5490450
+/root/sim/music//101~200/130_透明.mp3,ffmpeg,44100,16,2,9679068
+/root/sim/music//101~200/163_幸福な時間.mp3,ffmpeg,44100,16,2,8330000
+/root/sim/music//101~200/184_Half_Term_Waltz.mp3,ffmpeg,44100,16,2,4235904
+/root/sim/music//101~200/197_faint_stars.mp3,ffmpeg,44100,16,2,5465088
+/root/sim/music//101~200/135_怪しい壺.mp3,ffmpeg,44100,16,2,294912
+/root/sim/music//101~200/155_弦の結び.mp3,ffmpeg,44100,16,2,4243968
+/root/sim/music//101~200/168_遠い踏切.mp3,ffmpeg,44100,16,2,8675712
+/root/sim/music//101~200/109_たぬきちの冒険.mp3,ffmpeg,44100,16,2,3210128
+/root/sim/music//101~200/170_More_More_Mole.mp3,ffmpeg,44100,16,2,3583872

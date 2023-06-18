@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/エレファントカシマシ/THE_FIGHTING_MAN_[Disc_1]/1-11_桜の花、舞い上がる道を.mp3,ffmpeg,44100,16,2,13481856

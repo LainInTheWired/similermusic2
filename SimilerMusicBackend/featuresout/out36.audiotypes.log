@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Various_Artists/T2_Trainspotting__Original_Motion_Pictur/15_Slow_Slippy.mp3,ffmpeg,44100,16,2,10179072

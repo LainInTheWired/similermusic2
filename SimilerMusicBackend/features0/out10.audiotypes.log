@@ -1,0 +1,27 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//1~100/22_ensolarado.mp3,ffmpeg,44100,16,2,6015325
+/root/sim/music//1~100/33_春のキッチン.mp3,ffmpeg,44100,16,2,5008474
+/root/sim/music//1~100/96_星の破線.mp3,ffmpeg,44100,16,2,8377236
+/root/sim/music//1~100/44_Cassette_Tape_Dream.mp3,ffmpeg,44100,16,2,7767936
+/root/sim/music//1~100/72_ながれぼし.mp3,ffmpeg,44100,16,2,7044427
+/root/sim/music//1~100/80_人狼の為の子守唄.mp3,ffmpeg,44100,16,2,4370688
+/root/sim/music//1~100/62_はりきっちゃう時のテーマ.mp3,ffmpeg,44100,16,2,4857984
+/root/sim/music//1~100/15_自宅にて.mp3,ffmpeg,44100,16,2,15738624
+/root/sim/music//1~100/93_全てが終わる夜に.mp3,ffmpeg,44100,16,2,8347392
+/root/sim/music//1~100/19_ぐだぐだな感じ.mp3,ffmpeg,44100,16,2,4151808
+/root/sim/music//1~100/49_so_sweet.mp3,ffmpeg,44100,16,2,5654016
+/root/sim/music//1~100/94_バルーン.mp3,ffmpeg,44100,16,2,14278423
+/root/sim/music//1~100/100_パーティーはハチャメチャ大騒ぎ.mp3,ffmpeg,44100,16,2,1589760
+/root/sim/music//1~100/91_堕ちる.mp3,ffmpeg,44100,16,2,6201563
+/root/sim/music//1~100/69_ひらひらり.mp3,ffmpeg,44100,16,2,5345280
+/root/sim/music//1~100/70_茶屋にて.mp3,ffmpeg,44100,16,2,3894912
+/root/sim/music//1~100/87_おなじみの風景.mp3,ffmpeg,44100,16,2,5647104
+/root/sim/music//1~100/90_ちょっと忘れ物をしちゃった的なBGM.mp3,ffmpeg,44100,16,2,2464128
+/root/sim/music//1~100/38_shuffle_shuffle.mp3,ffmpeg,44100,16,2,5731200
+/root/sim/music//1~100/57_カナリアスキップ.mp3,ffmpeg,44100,16,2,18505728
+/root/sim/music//1~100/6_2_23_AM.mp3,ffmpeg,44100,16,2,8646912
+/root/sim/music//1~100/25_CLAP!.mp3,ffmpeg,44100,16,2,9336147
+/root/sim/music//1~100/14_クレイジークッキング.mp3,ffmpeg,44100,16,2,2607897
+/root/sim/music//1~100/73_不穏.mp3,ffmpeg,44100,16,2,3412224
+/root/sim/music//1~100/61_HOW_TO_PLAY.mp3,ffmpeg,44100,16,2,3495168
+/root/sim/music//1~100/12_SUMMER_TRIANGLE.mp3,ffmpeg,44100,16,2,5657472

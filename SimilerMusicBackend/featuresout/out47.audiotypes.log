@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/エレファントカシマシ/明日に向かって走れ_-月夜の歌-/11_今宵の月のように.mp3,ffmpeg,44100,16,2,11146752

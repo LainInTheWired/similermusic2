@@ -1,0 +1,25 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//701~800/702_Afterimage_of_Summer.mp3,ffmpeg,44100,16,2,6056400
+/root/sim/music//701~800/750_少女の見た夢は.mp3,ffmpeg,44100,16,1,3126513
+/root/sim/music//701~800/780_何気ない一日.mp3,ffmpeg,44100,16,2,6050304
+/root/sim/music//701~800/713_Battle_Fang.mp3,ffmpeg,44100,16,2,4328064
+/root/sim/music//701~800/727_青空.mp3,ffmpeg,44100,16,2,7341063
+/root/sim/music//701~800/770_Nostalgia.mp3,ffmpeg,44100,16,2,6276558
+/root/sim/music//701~800/772_宇宙紀行_-Cosmo_Night_Paradox-.mp3,ffmpeg,44100,16,2,11565137
+/root/sim/music//701~800/791_穏やかな休日.mp3,ffmpeg,44100,16,2,4166784
+/root/sim/music//701~800/753_cradle_dream.mp3,ffmpeg,44100,16,2,5647104
+/root/sim/music//701~800/736_碧は続いて.mp3,ffmpeg,44100,16,2,6241536
+/root/sim/music//701~800/790_ネオン、水槽、地雷系.mp3,ffmpeg,44100,16,2,5042217
+/root/sim/music//701~800/731_Vanilla_Sky.mp3,ffmpeg,44100,16,2,9783936
+/root/sim/music//701~800/800_ほんわか好日(Cozy_good_days).mp3,ffmpeg,44100,16,2,1424981
+/root/sim/music//701~800/775_ゴシック遊戯.mp3,ffmpeg,44100,16,2,4538880
+/root/sim/music//701~800/748_Polka_dot_parade_.mp3,ffmpeg,44100,16,2,5037696
+/root/sim/music//401~500/480_夏の海.mp3,ffmpeg,44100,16,2,5291998
+/root/sim/music//401~500/410_Yorisou.mp3,ffmpeg,44100,16,2,2782080
+/root/sim/music//401~500/411_The_Stars.mp3,ffmpeg,44100,16,2,3255639
+/root/sim/music//401~500/429_残暑.mp3,ffmpeg,44100,16,2,7414092
+/root/sim/music//401~500/409_夏の夜の悪夢.mp3,ffmpeg,44100,16,2,4478906
+/root/sim/music//401~500/424_われら一丁目探検隊.mp3,ffmpeg,44100,16,2,5205888
+/root/sim/music//401~500/428_Sentimental_City.mp3,ffmpeg,44100,16,2,9084600
+/root/sim/music//401~500/402_買い物帰りの夕焼け.mp3,ffmpeg,44100,16,2,6010031
+/root/sim/music//401~500/442_幻妖.mp3,ffmpeg,44100,16,2,8884209

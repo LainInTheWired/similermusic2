@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Queen/A_Night_At_The_Opera/11_Bohemian_Rhapsody.mp3,ffmpeg,44100,16,2,15596928

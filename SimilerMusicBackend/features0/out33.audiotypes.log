@@ -1,0 +1,27 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//401~500/417_花束とメープルラテ.mp3,ffmpeg,44100,16,2,15402896
+/root/sim/music//401~500/416_夏の終わりの帰り道.mp3,ffmpeg,44100,16,2,6644783
+/root/sim/music//401~500/475_紺碧のオフロード.mp3,ffmpeg,44100,16,2,7577129
+/root/sim/music//401~500/500_悲しみの果て、見失う光.mp3,ffmpeg,44100,16,2,10228655
+/root/sim/music//401~500/431_水音.mp3,ffmpeg,44100,16,2,5834880
+/root/sim/music//401~500/433_Get_High.mp3,ffmpeg,44100,16,2,3377664
+/root/sim/music//401~500/495_Flow.mp3,ffmpeg,44100,16,2,3542400
+/root/sim/music//401~500/478_実験開始！.mp3,ffmpeg,44100,16,2,2234880
+/root/sim/music//401~500/432_Blue_Moon.mp3,ffmpeg,44100,16,2,5929344
+/root/sim/music//401~500/472_水の夢.mp3,ffmpeg,44100,16,2,5647104
+/root/sim/music//401~500/453_LIAR_PARADOX.mp3,ffmpeg,44100,16,2,6554278
+/root/sim/music//401~500/462_光る紙飛行機.mp3,ffmpeg,44100,16,2,3773952
+/root/sim/music//401~500/422_コンクリートダンジョン.mp3,ffmpeg,44100,16,2,5207040
+/root/sim/music//401~500/452_Fate.mp3,ffmpeg,44100,16,2,5159700
+/root/sim/music//401~500/461_煌めく.mp3,ffmpeg,44100,16,2,3922560
+/root/sim/music//401~500/426_アスチルベ.mp3,ffmpeg,44100,16,2,5156352
+/root/sim/music//401~500/454_Birthday.mp3,ffmpeg,44100,16,2,7940736
+/root/sim/music//401~500/482_間接照明とブラックコーヒー.mp3,ffmpeg,44100,16,2,8141184
+/root/sim/music//401~500/456_Suit_of_Blue.mp3,ffmpeg,44100,16,2,8111825
+/root/sim/music//401~500/488_Retribution_from_the_Dead.mp3,ffmpeg,44100,16,2,5790507
+/root/sim/music//401~500/434_癒やしスポット.mp3,ffmpeg,44100,16,2,4612608
+/root/sim/music//401~500/485_東京ローファイポップ.mp3,ffmpeg,44100,16,2,7914240
+/root/sim/music//401~500/457_ヨーグルトシャーベットの精.mp3,ffmpeg,44100,16,2,4839552
+/root/sim/music//401~500/463_Cool_Breeze.mp3,ffmpeg,44100,16,2,6232800
+/root/sim/music//401~500/494_Summer_Escape.mp3,ffmpeg,44100,16,2,12306017
+/root/sim/music//401~500/458_Zinnia.mp3,ffmpeg,44100,16,2,7058304

@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Oasis/Familiar_To_Millions_[Live]_[Disc_1]/1-09_Roll_With_It.mp3,ffmpeg,44100,16,2,12528281

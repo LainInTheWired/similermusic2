@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+"/root/sim/music/out/Bonnie_Raitt/Luck_Of_The_Draw/02_Good_Man,_Good_Woman.mp3",ffmpeg,44100,16,2,9423360

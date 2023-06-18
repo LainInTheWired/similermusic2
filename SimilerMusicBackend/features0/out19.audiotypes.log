@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//501~600/504_Maru_Maru_Animals.mp3,ffmpeg,44100,16,2,4235904
+/root/sim/music//501~600/522_Daylight_Summer_Time.mp3,ffmpeg,44100,16,2,6474918
+/root/sim/music//501~600/542_キャラバン.mp3,ffmpeg,44100,16,2,3795840
+/root/sim/music//501~600/558_眠るクラゲ.mp3,ffmpeg,44100,16,2,5436288
+/root/sim/music//501~600/515_Sunset_Beach.mp3,ffmpeg,44100,16,2,7302960
+/root/sim/music//501~600/506_Bump!.mp3,ffmpeg,44100,16,2,6417507
+/root/sim/music//501~600/512_雄大な景色.mp3,ffmpeg,44100,16,2,5003350
+/root/sim/music//501~600/535_March_for__delightful_future.mp3,ffmpeg,44100,16,2,11643576
+/root/sim/music//501~600/526_parasite.mp3,ffmpeg,44100,16,2,5010048
+/root/sim/music//501~600/556_Hanabi.mp3,ffmpeg,44100,16,2,6112512
+/root/sim/music//501~600/561_これから始まる、朝.mp3,ffmpeg,44100,16,2,9679104
+/root/sim/music//501~600/552_切迫.mp3,ffmpeg,44100,16,2,507310
+/root/sim/music//501~600/549_静かな蒼に.mp3,ffmpeg,44100,16,2,6893568
+/root/sim/music//501~600/600_こころはずむ.mp3,ffmpeg,44100,16,2,3180672
+/root/sim/music//501~600/517_空色ブルーム.mp3,ffmpeg,44100,16,2,5390208
+/root/sim/music//501~600/565_流れ星を待って.mp3,ffmpeg,44100,16,2,7778304
+/root/sim/music//501~600/570_Certain_Victory.mp3,ffmpeg,44100,16,2,14723403
+/root/sim/music//501~600/597_Obstacle_Race.mp3,ffmpeg,44100,16,2,6138720
+/root/sim/music//101~200/191_深夜VSハッカー.mp3,ffmpeg,44100,16,2,5042217
+/root/sim/music//101~200/157_Play_with_me.mp3,ffmpeg,44100,16,2,7852269
+/root/sim/music//101~200/193_窓越しの雨.mp3,ffmpeg,44100,16,2,4555353
+/root/sim/music//101~200/101_日々と泉.mp3,ffmpeg,44100,16,2,3178368
+/root/sim/music//101~200/176_rain_&amp_rainbow.mp3,ffmpeg,44100,16,2,5559552
+/root/sim/music//101~200/154_一人旅.mp3,ffmpeg,44100,16,2,8618112
+/root/sim/music//101~200/158_ぼーっとしてる.mp3,ffmpeg,44100,16,2,3996288

@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//701~800/771_opportunity.mp3,ffmpeg,44100,16,2,6873984
+/root/sim/music//701~800/773_Saturday_Night_Fun.mp3,ffmpeg,44100,16,2,9261000
+/root/sim/music//701~800/741_蛍火の夕暮れ.mp3,ffmpeg,44100,16,2,5647104
+/root/sim/music//701~800/752_mine.mp3,ffmpeg,44100,16,2,9767808
+/root/sim/music//701~800/746_カラフルハート.mp3,ffmpeg,44100,16,2,4942080
+/root/sim/music//701~800/785_流星に触れた夜.mp3,ffmpeg,44100,16,2,6787772
+/root/sim/music//701~800/728_ほゎ.mp3,ffmpeg,44100,16,2,3880960
+/root/sim/music//701~800/795_the_beautiful_world.mp3,ffmpeg,44100,16,2,10804500
+/root/sim/music//701~800/707_ジャンク・ゴミヤマ・リサイクル.mp3,ffmpeg,44100,16,2,6042405
+/root/sim/music//701~800/774_愛食.mp3,ffmpeg,44100,16,2,5152292
+/root/sim/music//701~800/715_Sparkling.mp3,ffmpeg,44100,16,2,6282205
+/root/sim/music//701~800/709_Waves.mp3,ffmpeg,44100,16,2,3928320
+/root/sim/music//701~800/721_紫陽花の丘に、貴方はもういない.mp3,ffmpeg,44100,16,2,3654656
+/root/sim/music//701~800/724_A_Fine_Afternoon.mp3,ffmpeg,44100,16,2,7454817
+/root/sim/music//701~800/781_Urban_Echoes.mp3,ffmpeg,44100,16,2,7362782
+/root/sim/music//701~800/769_雨の日の公園で見かけたの.mp3,ffmpeg,44100,16,2,5348096
+/root/sim/music//701~800/722_いにしえ.mp3,ffmpeg,44100,16,2,6273792
+/root/sim/music//701~800/717_Great_Talents_Mature_Late.mp3,ffmpeg,44100,16,2,3302208
+/root/sim/music//701~800/782_ヒカリ.mp3,ffmpeg,44100,16,2,4498200
+/root/sim/music//701~800/735_大正マロングラッセ.mp3,ffmpeg,44100,16,2,16222097
+/root/sim/music//701~800/766_腕花.mp3,ffmpeg,44100,16,2,8695296
+/root/sim/music//701~800/706_流星の空.mp3,ffmpeg,44100,16,2,6975360
+/root/sim/music//701~800/763_CHINA_GIRL.mp3,ffmpeg,44100,16,2,3754145
+/root/sim/music//701~800/733_大混乱！？.mp3,ffmpeg,44100,16,2,2733696
+/root/sim/music//701~800/789_Smile_Today.mp3,ffmpeg,44100,16,2,4707072

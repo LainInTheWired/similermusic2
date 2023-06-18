@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//1~100/40_いつかの夢.mp3,ffmpeg,44100,16,2,9681185
+/root/sim/music//1~100/9_10℃.mp3,ffmpeg,44100,16,2,9595008
+/root/sim/music//1~100/32_のんきな日常.mp3,ffmpeg,44100,16,2,1957248
+/root/sim/music//1~100/60_夏の思い出.mp3,ffmpeg,44100,16,2,4810752
+/root/sim/music//1~100/48_サンタは中央線でやってくる.mp3,ffmpeg,44100,16,2,10215936
+/root/sim/music//1~100/28_少年達の夏休み的なBGM.mp3,ffmpeg,44100,16,2,4382208
+/root/sim/music//1~100/54_Sunshine!.mp3,ffmpeg,44100,16,2,7842316
+/root/sim/music//1~100/63_なんということはない日常.mp3,ffmpeg,44100,16,2,3532032
+/root/sim/music//1~100/10_ほんわかぷっぷー.mp3,ffmpeg,44100,16,2,3371904
+/root/sim/music//1~100/95_いちごホイップ.mp3,ffmpeg,44100,16,2,2699136
+/root/sim/music//1~100/79_タイフーンパレード.mp3,ffmpeg,44100,16,2,4235904
+/root/sim/music//1~100/86_他愛のない話.mp3,ffmpeg,44100,16,2,4361472
+/root/sim/music//1~100/18_わくわくクッキングタイム的なBGM.mp3,ffmpeg,44100,16,2,5491584
+/root/sim/music//1~100/78_Into_the_light.mp3,ffmpeg,44100,16,2,9112320
+/root/sim/music//1~100/3_Morning.mp3,ffmpeg,44100,16,2,7291008
+/root/sim/music//1~100/46_Good_Morning_Sky_(フルバージョン).mp3,ffmpeg,44100,16,2,4286592
+/root/sim/music//1~100/24_ちょっと楽しい.mp3,ffmpeg,44100,16,2,2722223
+/root/sim/music//1~100/23_おどれグロッケンシュピール.mp3,ffmpeg,44100,16,2,8562816
+/root/sim/music//1~100/13_日曜の午後.mp3,ffmpeg,44100,16,2,4655232
+/root/sim/music//1~100/76_ゆりかご.mp3,ffmpeg,44100,16,2,1870848
+/root/sim/music//1~100/83_ワスレナグサ.mp3,ffmpeg,44100,16,2,22061952
+/root/sim/music//901~1000/974_MS_City.mp3,ffmpeg,44100,16,2,6258366
+/root/sim/music//901~1000/921_嵐を纏う.mp3,ffmpeg,44100,16,2,6651750
+/root/sim/music//901~1000/998_大地のステップ.mp3,ffmpeg,44100,16,2,6302422
+/root/sim/music//901~1000/948_煌めく渓流.mp3,ffmpeg,44100,16,2,5387904

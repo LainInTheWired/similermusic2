@@ -1,0 +1,27 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//701~800/718_Sweet_Dreams.mp3,ffmpeg,44100,16,2,7555026
+/root/sim/music//701~800/719_Walking_Ameba.mp3,ffmpeg,44100,16,2,6954624
+/root/sim/music//701~800/734_Electronic_Glider.mp3,ffmpeg,44100,16,2,5757696
+/root/sim/music//701~800/754_ピスタチオとチョコレート.mp3,ffmpeg,44100,16,2,3632256
+/root/sim/music//701~800/705_あの夕日は何色ですか？.mp3,ffmpeg,44100,16,2,2749724
+/root/sim/music//701~800/726_蒼い月.mp3,ffmpeg,44100,16,2,6441611
+/root/sim/music//701~800/751_Exceed.mp3,ffmpeg,44100,16,2,8650384
+/root/sim/music//701~800/759_Cloudless_Sky.mp3,ffmpeg,44100,16,2,5958400
+/root/sim/music//701~800/797_羨望のプレリュード.mp3,ffmpeg,44100,16,2,6132369
+/root/sim/music//701~800/783_内緒のおまじない.mp3,ffmpeg,44100,16,2,4682880
+/root/sim/music//701~800/729_Small_Happy.mp3,ffmpeg,44100,16,2,3259008
+/root/sim/music//701~800/725_ミニマルなマーチ.mp3,ffmpeg,44100,16,2,3083120
+/root/sim/music//701~800/720_hometownhares.mp3,ffmpeg,44100,16,2,6859008
+/root/sim/music//701~800/777_かわいい探検隊.mp3,ffmpeg,44100,16,2,7754250
+/root/sim/music//701~800/716_やぶれたクマのぬいぐるみ.mp3,ffmpeg,44100,16,2,2366583
+/root/sim/music//701~800/744_Night_Dance.mp3,ffmpeg,44100,16,2,5708225
+/root/sim/music//701~800/737_知らない猫の手を引いて.mp3,ffmpeg,44100,16,2,2502057
+/root/sim/music//701~800/749_鎖より解き放たれし者.mp3,ffmpeg,44100,16,2,9702305
+/root/sim/music//701~800/708_Training.mp3,ffmpeg,44100,16,2,4158000
+/root/sim/music//701~800/796_いつか来る、君たちの夏で.mp3,ffmpeg,44100,16,2,4278053
+/root/sim/music//701~800/723_Daybreak.mp3,ffmpeg,44100,16,2,7852032
+/root/sim/music//701~800/799_Good_Friends.mp3,ffmpeg,44100,16,2,5929344
+/root/sim/music//701~800/776_オレンジ色の青春(学園編)的なBGM.mp3,ffmpeg,44100,16,2,6905088
+/root/sim/music//701~800/710_レシピ考え中.mp3,ffmpeg,44100,16,2,6118875
+/root/sim/music//701~800/703_Ambush.mp3,ffmpeg,44100,16,2,3435264
+/root/sim/music//701~800/764_夏風.mp3,ffmpeg,44100,16,2,9111168

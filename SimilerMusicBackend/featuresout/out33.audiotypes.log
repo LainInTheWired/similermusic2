@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Various_Artists/TETSUYA_KOMURO_ARCHIVES__K__[Disc_4]/11-MY_HISTORY.mp3,ffmpeg,44100,16,2,10267776

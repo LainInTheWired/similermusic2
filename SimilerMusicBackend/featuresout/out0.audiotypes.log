@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Phil_Collins/The_Singles_[Disc_2]/2-08_Do_You_Remember_.mp3,ffmpeg,44100,16,2,12174336

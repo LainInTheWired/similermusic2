@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Deep_Purple/The_Very_Best_Of/05_Child_In_Time.mp3,ffmpeg,44100,16,2,27339264

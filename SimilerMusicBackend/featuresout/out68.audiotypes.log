@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Compilations/20th_ANNIVERSARY_OF_PERSONA_SERIES_ALL_T/5-03_脱出.mp3,ffmpeg,44100,16,2,2345415

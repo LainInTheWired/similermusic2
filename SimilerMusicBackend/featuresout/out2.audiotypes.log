@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/井上陽水/GOLDEN_BEST_[Disc_1]/10_心もよう.mp3,ffmpeg,44100,16,2,9118080

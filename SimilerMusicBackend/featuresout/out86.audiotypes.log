@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Bryan_Adams/Anthology_[Bonus_Track]_[Disc_2]/2-04_Rock_Steady.mp3,ffmpeg,44100,16,2,10854144

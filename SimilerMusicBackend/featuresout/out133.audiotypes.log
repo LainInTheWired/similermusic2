@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Blur/The_Best_Of/01_Beetlebum.mp3,ffmpeg,44100,16,2,13483008

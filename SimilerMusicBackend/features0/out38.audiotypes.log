@@ -1,0 +1,27 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//801~900/886_crisp_morning.mp3,ffmpeg,44100,16,2,518175
+/root/sim/music//801~900/874_天水のユーロビート.mp3,ffmpeg,44100,16,2,11049984
+/root/sim/music//801~900/823_世界が終わるまで、あと7分.mp3,ffmpeg,44100,16,2,3618669
+/root/sim/music//801~900/826_怨恨憑依祓うも笑み.mp3,ffmpeg,44100,16,2,5251089
+/root/sim/music//801~900/896_Night_Cruising.mp3,ffmpeg,44100,16,2,12110222
+/root/sim/music//801~900/864_Teddy.mp3,ffmpeg,44100,16,2,7056000
+/root/sim/music//801~900/809_おちゃたたみ.mp3,ffmpeg,44100,16,2,4398545
+/root/sim/music//801~900/845_バーゲンセール.mp3,ffmpeg,44100,16,2,7764480
+/root/sim/music//801~900/838_帰り道の脳内反省会.mp3,ffmpeg,44100,16,2,3872685
+/root/sim/music//801~900/842_夏凪.mp3,ffmpeg,44100,16,2,5774976
+/root/sim/music//801~900/860_風と緑と少しの希望.mp3,ffmpeg,44100,16,2,5980032
+/root/sim/music//801~900/868_ラウンワンファイ.mp3,ffmpeg,44100,16,2,1695744
+/root/sim/music//801~900/873_Cafe_by_the_sea.mp3,ffmpeg,44100,16,2,7461920
+/root/sim/music//801~900/900_The_Day_a_Girl_Dreams.mp3,ffmpeg,44100,16,2,6526800
+/root/sim/music//801~900/862_止まない雨を見ていた.mp3,ffmpeg,44100,16,2,10434816
+/root/sim/music//801~900/853_secret_songs.mp3,ffmpeg,44100,16,2,9117675
+/root/sim/music//801~900/841_今日のごはんはオムライス.mp3,ffmpeg,44100,16,2,4492800
+/root/sim/music//801~900/877_Wrong_Prophet.mp3,ffmpeg,44100,16,2,5468400
+/root/sim/music//801~900/872_Green_Leaves.mp3,ffmpeg,44100,16,2,5647104
+/root/sim/music//801~900/852_オハヨウゴザイマス(AM11_00).mp3,ffmpeg,44100,16,2,3937248
+/root/sim/music//801~900/888_Factory_Night_View.mp3,ffmpeg,44100,16,2,5932800
+/root/sim/music//801~900/881_お狐さまと夢うつつ.mp3,ffmpeg,44100,16,2,15446289
+/root/sim/music//801~900/866_Bright_Daytime.mp3,ffmpeg,44100,16,2,5294592
+/root/sim/music//801~900/863_ノスタルジー.mp3,ffmpeg,44100,16,2,5889024
+/root/sim/music//801~900/865_Friday_Lunch.mp3,ffmpeg,44100,16,2,7362782
+/root/sim/music//801~900/844_逃げろー！.mp3,ffmpeg,44100,16,2,1854720

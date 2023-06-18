@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Oasis/Stop_The_Clocks_[Disc_1]/04-Lyla.mp3,ffmpeg,44100,16,2,13714560

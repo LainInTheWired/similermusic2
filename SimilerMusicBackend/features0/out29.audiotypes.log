@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//701~800/745_葛藤と決意。.mp3,ffmpeg,44100,16,2,7345152
+/root/sim/music//701~800/747_カレーラッシー.mp3,ffmpeg,44100,16,2,1413504
+/root/sim/music//701~800/786_リスのおやつ.mp3,ffmpeg,44100,16,2,2543616
+/root/sim/music//701~800/758_Go_Go_サイクリング.mp3,ffmpeg,44100,16,2,4118400
+/root/sim/music//701~800/765_Hydrangea_in_June.mp3,ffmpeg,44100,16,2,5735808
+/root/sim/music//701~800/788_Neon_Lovers.mp3,ffmpeg,44100,16,2,7197120
+/root/sim/music//701~800/742_Water_City.mp3,ffmpeg,44100,16,2,7164554
+/root/sim/music//701~800/793_Clutch_For_Gain.mp3,ffmpeg,44100,16,2,5823360
+/root/sim/music//701~800/760_のんきな昼下がり.mp3,ffmpeg,44100,16,2,6624525
+/root/sim/music//701~800/755_風にそよぐ花.mp3,ffmpeg,44100,16,2,3968727
+/root/sim/music//701~800/756_鼓動.mp3,ffmpeg,44100,16,2,4990464
+/root/sim/music//701~800/757_明日へ.mp3,ffmpeg,44100,16,2,661500
+/root/sim/music//701~800/761_Star_dust.mp3,ffmpeg,44100,16,2,4324608
+/root/sim/music//701~800/784_夏の匂いとエトセトラ.mp3,ffmpeg,44100,16,2,3949949
+/root/sim/music//701~800/779_繰り返しの館.mp3,ffmpeg,44100,16,2,10918656
+/root/sim/music//701~800/768_ふたつめの星.mp3,ffmpeg,44100,16,2,10180224
+/root/sim/music//701~800/767_ハルナとエマ.mp3,ffmpeg,44100,16,2,2946585
+/root/sim/music//701~800/712_面影.mp3,ffmpeg,44100,16,2,6244560
+/root/sim/music//701~800/792_神秘的な泉.mp3,ffmpeg,44100,16,2,5292000
+/root/sim/music//701~800/762_風って、こんな味がするんだ.mp3,ffmpeg,44100,16,2,3520239
+/root/sim/music//701~800/730_Echoes_in_Rain～白梅香～.mp3,ffmpeg,44100,16,2,14276757
+/root/sim/music//701~800/787_ひまわりの遊歩道.mp3,ffmpeg,44100,16,2,10467072
+/root/sim/music//701~800/740_Brave_of_eternal.mp3,ffmpeg,44100,16,2,12869568
+/root/sim/music//701~800/798_Mind_Journey.mp3,ffmpeg,44100,16,2,4762800
+/root/sim/music//701~800/711_惨劇から一夜明けて.mp3,ffmpeg,44100,16,2,8369280

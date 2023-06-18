@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/John_Lennon/Working_Class_Hero__The_Definitive_Lennon_[Disc_1]/05-Instant_Karma!_(We_All_Shine_On).mp3,ffmpeg,44100,16,2,8884224

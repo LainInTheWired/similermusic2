@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/尾崎豊/回帰線/07_坂の下に見えたあの街に.mp3,ffmpeg,44100,16,2,10624896

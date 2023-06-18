@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Various_Artists/STEINS;GATE_VOCAL_BEST_[Disc_1]/04_technovision.mp3,ffmpeg,44100,16,2,11177856

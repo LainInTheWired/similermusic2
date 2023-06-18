@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/AC_DC/Rock_Or_Bust/10_Sweet_Candy.mp3,ffmpeg,44100,16,2,8369280

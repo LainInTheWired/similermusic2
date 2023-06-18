@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/スピッツ/CYCLE_HIT_1997-2005_Spitz_Complete_Single_Collection/01_夢じゃない.mp3,ffmpeg,44100,16,2,11880576

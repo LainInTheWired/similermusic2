@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/The_Police/The_Police_[Disc_2]/2-12_King_Of_Pain.mp3,ffmpeg,44100,16,2,13236480

@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//401~500/467_Midsummer_dream.mp3,ffmpeg,44100,16,2,4611456
+/root/sim/music//401~500/465_Little_Promise.mp3,ffmpeg,44100,16,2,5390208
+/root/sim/music//401~500/420_海は歌う.mp3,ffmpeg,44100,16,2,8728125
+/root/sim/music//401~500/468_夏休みの冒険.mp3,ffmpeg,44100,16,2,3354624
+/root/sim/music//401~500/446_花手水.mp3,ffmpeg,44100,16,2,7928813
+/root/sim/music//401~500/484_荒れ地の先へ.mp3,ffmpeg,44100,16,2,15737233
+/root/sim/music//401~500/404_Moonwards.mp3,ffmpeg,44100,16,2,6097443
+/root/sim/music//401~500/479_GO_HAPPY.mp3,ffmpeg,44100,16,2,4747983
+/root/sim/music//401~500/407_財布忘れた.mp3,ffmpeg,44100,16,2,4565376
+/root/sim/music//401~500/490_夏の訪れ.mp3,ffmpeg,44100,16,2,4135680
+/root/sim/music//401~500/455_Lawn_Beds.mp3,ffmpeg,44100,16,2,7056000
+/root/sim/music//401~500/498_Night_Shade_Story.mp3,ffmpeg,44100,16,2,6050304
+/root/sim/music//401~500/451_庶民のお茶会.mp3,ffmpeg,44100,16,2,4462215
+/root/sim/music//401~500/474_Still.mp3,ffmpeg,44100,16,2,12546656
+/root/sim/music//401~500/492_Forgot_Night.mp3,ffmpeg,44100,16,2,7056000
+/root/sim/music//401~500/421_Felicia_Blue.mp3,ffmpeg,44100,16,2,6307200
+/root/sim/music//401~500/466_魔王城.mp3,ffmpeg,44100,16,2,5380200
+/root/sim/music//401~500/401_Robot&#039s_Daily_Life.mp3,ffmpeg,44100,16,2,3530880
+/root/sim/music//401~500/437_Fresh_Morning.mp3,ffmpeg,44100,16,2,5004116
+/root/sim/music//401~500/427_Nokogiri_-_Yama.mp3,ffmpeg,44100,16,2,4429440
+/root/sim/music//401~500/419_まちかどパン工房.mp3,ffmpeg,44100,16,2,4928256
+/root/sim/music//401~500/481_海風のアルペジオ.mp3,ffmpeg,44100,16,2,14164568
+/root/sim/music//401~500/405_青空.mp3,ffmpeg,44100,16,2,8731800
+/root/sim/music//401~500/444_隠れ里.mp3,ffmpeg,44100,16,2,7364736
+/root/sim/music//401~500/489_この路の先へ.mp3,ffmpeg,44100,16,2,6308352

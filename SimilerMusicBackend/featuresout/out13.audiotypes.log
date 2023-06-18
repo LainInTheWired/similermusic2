@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/X_JAPAN/BALLAD_COLLECTION/02_Longing.mp3,ffmpeg,44100,16,2,19407744

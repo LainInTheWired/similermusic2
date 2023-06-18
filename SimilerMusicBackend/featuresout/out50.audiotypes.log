@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Van_Halen/The_Best_Of_Both_Worlds_[Disc_1]/11_And_The_Cradle_Will_Rock.._.mp3,ffmpeg,44100,16,2,9447552

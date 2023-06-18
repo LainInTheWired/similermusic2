@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//101~200/110_Erica.mp3,ffmpeg,44100,16,2,4134528
+/root/sim/music//101~200/166_堺ヶ原.mp3,ffmpeg,44100,16,2,5647104
+/root/sim/music//101~200/140_寂しいジングル.mp3,ffmpeg,44100,16,2,1211904
+/root/sim/music//101~200/173_遥かなる空へ.mp3,ffmpeg,44100,16,2,5868288
+/root/sim/music//101~200/108_15_years_ago.mp3,ffmpeg,44100,16,2,3876920
+/root/sim/music//101~200/172_Take_a_Short_Break.mp3,ffmpeg,44100,16,2,5503680
+/root/sim/music//101~200/180_悠久の彼方.mp3,ffmpeg,44100,16,2,7541100
+/root/sim/music//101~200/136_Sweet_Dreams.mp3,ffmpeg,44100,16,2,7583616
+/root/sim/music//101~200/149_Trick_or_Treat.mp3,ffmpeg,44100,16,2,5067648
+/root/sim/music//101~200/186_Laughing_Ghost.mp3,ffmpeg,44100,16,2,5075712
+/root/sim/music//101~200/113_はっぴいばあすでいつーゆー.mp3,ffmpeg,44100,16,2,1983744
+/root/sim/music//101~200/126_消えそうな光.mp3,ffmpeg,44100,16,2,3504384
+/root/sim/music//101~200/145_Restart.mp3,ffmpeg,44100,16,2,7401600
+/root/sim/music//101~200/105_追跡者.mp3,ffmpeg,44100,16,2,13648896
+/root/sim/music//101~200/165_Dark_Cine.mp3,ffmpeg,44100,16,2,1542089
+/root/sim/music//101~200/142_ハッとして.mp3,ffmpeg,44100,16,2,4245120
+/root/sim/music//out/101_日々と泉.mp3,ffmpeg,44100,16,2,3178368
+/root/sim/music//out/901_Hello_Good-by.mp3,ffmpeg,44100,16,2,6948709
+/root/sim/music//out/3_Morning.mp3,ffmpeg,44100,16,2,7291008
+/root/sim/music//601~700/673_夏色スムージー.mp3,ffmpeg,44100,16,2,5294592
+/root/sim/music//601~700/693_たき火のそばで夜明けを待つ.mp3,ffmpeg,44100,16,2,13181231
+/root/sim/music//601~700/623_あにまる行進曲.mp3,ffmpeg,44100,16,2,5247360
+/root/sim/music//601~700/604_afternoon_peace.mp3,ffmpeg,44100,16,2,3970944
+/root/sim/music//601~700/675_割れた風鈴.mp3,ffmpeg,44100,16,2,2741256
+/root/sim/music//601~700/621_Fall.mp3,ffmpeg,44100,16,2,7856165

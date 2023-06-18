@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//301~400/359_アイドルです！.mp3,ffmpeg,44100,16,2,6177024
+/root/sim/music//301~400/326_イカタコメーター.mp3,ffmpeg,44100,16,2,3073593
+/root/sim/music//301~400/301_oriental.mp3,ffmpeg,44100,16,2,1332800
+/root/sim/music//301~400/365_天の庭.mp3,ffmpeg,44100,16,2,9003750
+/root/sim/music//301~400/332_キミとの季節.mp3,ffmpeg,44100,16,2,4942080
+/root/sim/music//301~400/306_Run_through_time.mp3,ffmpeg,44100,16,2,4985856
+/root/sim/music//301~400/349_いちごハムパン.mp3,ffmpeg,44100,16,2,3765888
+/root/sim/music//301~400/361_レシュノルティア.mp3,ffmpeg,44100,16,2,5849777
+/root/sim/music//301~400/347_Nagatsuki_Beat.mp3,ffmpeg,44100,16,2,8702400
+/root/sim/music//301~400/379_揺らぐ木立.mp3,ffmpeg,44100,16,2,5647104
+/root/sim/music//301~400/325_In_The_Changing_Season.mp3,ffmpeg,44100,16,2,5140800
+/root/sim/music//301~400/341_スーパーにて.mp3,ffmpeg,44100,16,2,2824704
+/root/sim/music//301~400/372_Take_Your_Time.mp3,ffmpeg,44100,16,2,4939200
+/root/sim/music//301~400/337_少女は寒空の下待ち続ける.mp3,ffmpeg,44100,16,2,14903471
+/root/sim/music//301~400/389_星降る夜空.mp3,ffmpeg,44100,16,2,6111360
+/root/sim/music//301~400/338_Tomorrow_Place.mp3,ffmpeg,44100,16,2,5294592
+/root/sim/music//301~400/398_禁止区.mp3,ffmpeg,44100,16,2,7584768
+/root/sim/music//301~400/368_破.mp3,ffmpeg,44100,16,2,4420224
+/root/sim/music//301~400/311_光差し込む森.mp3,ffmpeg,44100,16,2,3220678
+/root/sim/music//301~400/353_キーライムパイ.mp3,ffmpeg,44100,16,2,7938377
+/root/sim/music//301~400/396_スーパーマーケット.mp3,ffmpeg,44100,16,2,3233664
+/root/sim/music//301~400/381_child_at_lunch.mp3,ffmpeg,44100,16,2,4498560
+/root/sim/music//301~400/367_Fist_Fold.mp3,ffmpeg,44100,16,2,4122189
+/root/sim/music//301~400/348_雨に花咲く.mp3,ffmpeg,44100,16,2,5774976
+/root/sim/music//301~400/322_Night_Stride.mp3,ffmpeg,44100,16,2,4372992

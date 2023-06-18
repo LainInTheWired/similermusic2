@@ -1,0 +1,27 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//301~400/313_Big_Groove.mp3,ffmpeg,44100,16,2,6350400
+/root/sim/music//301~400/318_flow_to_you.mp3,ffmpeg,44100,16,2,5082624
+/root/sim/music//301~400/383_星空.mp3,ffmpeg,44100,16,2,793800
+/root/sim/music//301~400/370_Secondhand_Dream.mp3,ffmpeg,44100,16,2,4257944
+/root/sim/music//301~400/363_雨のち小夜時雨.mp3,ffmpeg,44100,16,2,7269120
+/root/sim/music//301~400/346_Moonlight.mp3,ffmpeg,44100,16,2,5649408
+/root/sim/music//301~400/386_優しい灯火(Tenderly_glow).mp3,ffmpeg,44100,16,2,7849800
+/root/sim/music//301~400/336_君といっしょ.mp3,ffmpeg,44100,16,2,531649
+/root/sim/music//301~400/312_楽しいかけっこ.mp3,ffmpeg,44100,16,2,3891825
+/root/sim/music//301~400/355_Piano_Improvisation_(2022825_Take_1).mp3,ffmpeg,44100,16,2,3649364
+/root/sim/music//301~400/395_セーブしますか？.mp3,ffmpeg,44100,16,2,8580096
+/root/sim/music//301~400/316_Indomitable.mp3,ffmpeg,44100,16,2,7308288
+/root/sim/music//301~400/366_Strange_Story.mp3,ffmpeg,44100,16,2,3416832
+/root/sim/music//301~400/380_カラフルパラソル.mp3,ffmpeg,44100,16,2,5609088
+/root/sim/music//301~400/321_秋の足音.mp3,ffmpeg,44100,16,2,6607125
+/root/sim/music//301~400/307_Thaumiel.mp3,ffmpeg,44100,16,2,9931392
+/root/sim/music//301~400/357_大冒険の終わり.mp3,ffmpeg,44100,16,2,11185967
+/root/sim/music//301~400/352_Ice_World.mp3,ffmpeg,44100,16,2,7817472
+/root/sim/music//301~400/310_雑踏と打鍵のリズム.mp3,ffmpeg,44100,16,2,10437120
+/root/sim/music//301~400/345_Miracle_September.mp3,ffmpeg,44100,16,2,5406336
+/root/sim/music//301~400/304_ゴンドラの旅.mp3,ffmpeg,44100,16,2,4972032
+/root/sim/music//301~400/319_Shelter_From_Rain.mp3,ffmpeg,44100,16,2,8128512
+/root/sim/music//301~400/391_Ready_to_jump.mp3,ffmpeg,44100,16,2,4420224
+/root/sim/music//301~400/335_Foggy_Road.mp3,ffmpeg,44100,16,2,3439800
+/root/sim/music//301~400/309_カナリア.mp3,ffmpeg,44100,16,2,7401600
+/root/sim/music//301~400/323_冥府からの汚染.mp3,ffmpeg,44100,16,2,7541195

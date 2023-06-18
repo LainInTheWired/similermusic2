@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Oasis/ディグ・アウト・ユア・ソウル/05-アイム・アウタ・タイム.mp3,ffmpeg,44100,16,2,11025792

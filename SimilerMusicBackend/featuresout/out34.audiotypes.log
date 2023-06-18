@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Various_Artists/TETSUYA_KOMURO_ARCHIVES__T__[Disc_3]/03-deep_GRIND_(STRAIGHT_RUN).mp3,ffmpeg,44100,16,2,12185856

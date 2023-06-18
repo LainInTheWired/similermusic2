@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/スピッツ/CYCLE_HIT_1991-1997_Spitz_Complete_Single_Collection/02_夏の魔物.mp3,ffmpeg,44100,16,2,8452224

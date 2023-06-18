@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Wham!/The_Best_Of_Wham!__If_You_Were_There.._/12_Where_Did_Your_Heart_Go_.mp3,ffmpeg,44100,16,2,15118848

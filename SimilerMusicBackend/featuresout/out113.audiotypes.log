@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/スーパーカー/HIGHVISION/08_YUMEGIWA_LAST_BOY.mp3,ffmpeg,44100,16,2,11115317

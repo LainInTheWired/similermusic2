@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  web:
+    image: sim
+    volumes:
+      - ./sim:/root/sim
+      # - /Users/kimurashun/Music/Music:/root/music
+    ports:
+      - "11000:11000"
+    tty: true

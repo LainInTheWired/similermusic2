@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//201~300/264_Night_Bay_Bridge.mp3,ffmpeg,44100,16,2,4699008
+/root/sim/music//201~300/249_Samurai_Tears.mp3,ffmpeg,44100,16,2,5938801
+/root/sim/music//201~300/280_September_Walk.mp3,ffmpeg,44100,16,2,6967800
+/root/sim/music//201~300/300_Connectedness.mp3,ffmpeg,44100,16,2,8792457
+/root/sim/music//201~300/257_Sunny_Day_Walks.mp3,ffmpeg,44100,16,2,8026200
+/root/sim/music//201~300/276_星空へ浮かぶランタン.mp3,ffmpeg,44100,16,2,7089408
+/root/sim/music//201~300/248_慕情.mp3,ffmpeg,44100,16,2,6859491
+/root/sim/music//201~300/228_Oxide.mp3,ffmpeg,44100,16,2,4338432
+/root/sim/music//201~300/222_ドール・ハウス.mp3,ffmpeg,44100,16,2,5854569
+/root/sim/music//201~300/299_小鳥のおうち.mp3,ffmpeg,44100,16,2,6345500
+/root/sim/music//201~300/206_Happier.mp3,ffmpeg,44100,16,2,9202788
+/root/sim/music//201~300/204_コーヒー屋で一服.mp3,ffmpeg,44100,16,2,10833455
+/root/sim/music//201~300/246_春暁.mp3,ffmpeg,44100,16,2,7731072
+/root/sim/music//201~300/271_空を見上げて.mp3,ffmpeg,44100,16,2,2821248
+/root/sim/music//201~300/267_手招く森.mp3,ffmpeg,44100,16,2,4897152
+/root/sim/music//201~300/240_あの日なくした麦わらぼうし.mp3,ffmpeg,44100,16,2,9275951
+/root/sim/music//201~300/253_流星群.mp3,ffmpeg,44100,16,2,8271395
+/root/sim/music//201~300/263_Ivory_Keys.mp3,ffmpeg,44100,16,2,7986109
+/root/sim/music//201~300/210_Lykeion.mp3,ffmpeg,44100,16,2,8050756
+/root/sim/music//201~300/221_届かない声.mp3,ffmpeg,44100,16,2,11293056
+/root/sim/music//201~300/290_Come_To_You.mp3,ffmpeg,44100,16,2,6967800
+/root/sim/music//201~300/215_Bailar.mp3,ffmpeg,44100,16,2,6757477
+/root/sim/music//201~300/265_12_moon.mp3,ffmpeg,44100,16,2,2903040
+/root/sim/music//201~300/203_Sky_in_the_Big.mp3,ffmpeg,44100,16,2,5212800
+/root/sim/music//201~300/218_Eraser.mp3,ffmpeg,44100,16,2,3530880

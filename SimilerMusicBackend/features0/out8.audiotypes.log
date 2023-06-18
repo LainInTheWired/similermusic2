@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//1~100/81_TALK_and_WALK.mp3,ffmpeg,44100,16,2,3996519
+/root/sim/music//1~100/2_パステルハウス.mp3,ffmpeg,44100,16,2,7058469
+/root/sim/music//1~100/58_木漏れ日.mp3,ffmpeg,44100,16,2,8552802
+/root/sim/music//1~100/20_the_opening_of_a_book.mp3,ffmpeg,44100,16,2,8469504
+/root/sim/music//1~100/42_とある日常.mp3,ffmpeg,44100,16,2,11616768
+/root/sim/music//1~100/67_ゆかいな日常.mp3,ffmpeg,44100,16,2,4552258
+/root/sim/music//1~100/99_Escort.mp3,ffmpeg,44100,16,2,5608461
+/root/sim/music//1~100/17_You_and_Me.mp3,ffmpeg,44100,16,2,5526144
+/root/sim/music//1~100/84_Yours.mp3,ffmpeg,44100,16,2,4914432
+/root/sim/music//1~100/27_神隠しの真相.mp3,ffmpeg,44100,16,2,7310592
+/root/sim/music//1~100/11_Stream.mp3,ffmpeg,44100,16,2,14638464
+/root/sim/music//1~100/34_いつもの風景.mp3,ffmpeg,44100,16,2,8784000
+/root/sim/music//1~100/77_Spring_Riverside.mp3,ffmpeg,44100,16,2,12803328
+/root/sim/music//1~100/71_Let’s!.mp3,ffmpeg,44100,16,2,4643089
+/root/sim/music//1~100/39_Shall_we_meet？.mp3,ffmpeg,44100,16,2,3080448
+/root/sim/music//1~100/59_ヒダマリトロニカ.mp3,ffmpeg,44100,16,2,4383360
+/root/sim/music//1~100/47_週末京都現実逃避.mp3,ffmpeg,44100,16,2,11056896
+/root/sim/music//1~100/66_全てを創造する者「Dominus Deus」.mp3,ffmpeg,44100,16,2,5613696
+/root/sim/music//1~100/89_Pappa_Parappa.mp3,ffmpeg,44100,16,2,5412143
+/root/sim/music//1~100/4_野良猫は宇宙を目指した.mp3,ffmpeg,44100,16,2,5457024
+/root/sim/music//1~100/55_アトリエと電脳世界.mp3,ffmpeg,44100,16,2,7187328
+/root/sim/music//1~100/8_Cat_life.mp3,ffmpeg,44100,16,2,6688512
+/root/sim/music//1~100/50_garden.mp3,ffmpeg,44100,16,2,2974464
+/root/sim/music//1~100/21_夏はsummer!!.mp3,ffmpeg,44100,16,2,8735482
+/root/sim/music//1~100/98_弔い合戦.mp3,ffmpeg,44100,16,2,8469504

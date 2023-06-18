@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/エレファントカシマシ/町を見下ろす丘/06_今をかきならせ.mp3,ffmpeg,44100,16,2,9757440

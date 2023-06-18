@@ -1,0 +1,27 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//601~700/650_8_Bit_Island.mp3,ffmpeg,44100,16,2,14057669
+/root/sim/music//601~700/655_Little_Splash.mp3,ffmpeg,44100,16,2,5294592
+/root/sim/music//601~700/663_ピアノのマーチ.mp3,ffmpeg,44100,16,2,4410000
+/root/sim/music//601~700/679_Stay_Blue_Winds.mp3,ffmpeg,44100,16,2,5523840
+/root/sim/music//601~700/634_気分の良い早朝.mp3,ffmpeg,44100,16,2,7141295
+/root/sim/music//601~700/688_After_The_Myth.mp3,ffmpeg,44100,16,2,6723953
+/root/sim/music//601~700/674_Poisonous_Invasion.mp3,ffmpeg,44100,16,2,10472832
+/root/sim/music//601~700/610_夜空を見上げて.mp3,ffmpeg,44100,16,2,8516813
+/root/sim/music//601~700/643_Grasp_the_Attack.mp3,ffmpeg,44100,16,2,3530880
+/root/sim/music//601~700/680_午後のカメレオンは星の波動を数えてうたた寝をする.mp3,ffmpeg,44100,16,2,4690829
+/root/sim/music//601~700/683_おうちへ　かーえろ.mp3,ffmpeg,44100,16,2,5955840
+/root/sim/music//601~700/686_Foggy_Road.mp3,ffmpeg,44100,16,2,8269056
+/root/sim/music//601~700/661_明かりを灯して.mp3,ffmpeg,44100,16,2,6177024
+/root/sim/music//601~700/644_Regret.mp3,ffmpeg,44100,16,2,2223360
+/root/sim/music//601~700/696_暁.mp3,ffmpeg,44100,16,2,9977784
+/root/sim/music//601~700/691_月明かりの街.mp3,ffmpeg,44100,16,2,6444288
+/root/sim/music//601~700/690_私、花火ってキライなんだ.mp3,ffmpeg,44100,16,2,4156337
+/root/sim/music//601~700/651_Pastel.mp3,ffmpeg,44100,16,2,6708622
+/root/sim/music//601~700/614_潜入捜査.mp3,ffmpeg,44100,16,2,2487168
+/root/sim/music//601~700/628_Signal.mp3,ffmpeg,44100,16,2,7303712
+/root/sim/music//601~700/606_トロピカルフルーツ.mp3,ffmpeg,44100,16,2,5859072
+/root/sim/music//601~700/648_花束と共に.mp3,ffmpeg,44100,16,2,10399104
+/root/sim/music//601~700/649_あの星が全部降ってきたらどうなっちゃうのかな？.mp3,ffmpeg,44100,16,2,2801585
+/root/sim/music//601~700/633_8bitおんがく～バトル～.mp3,ffmpeg,44100,16,2,5162112
+/root/sim/music//601~700/635_Please_Please.mp3,ffmpeg,44100,16,2,8908200
+/root/sim/music//601~700/624_午前二時の悩み事.mp3,ffmpeg,44100,16,2,9749376

@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//501~600/598_小さな勇者の探検.mp3,ffmpeg,44100,16,2,2041344
+/root/sim/music//501~600/543_百鬼夜行.mp3,ffmpeg,44100,16,2,3175200
+/root/sim/music//501~600/536_Shadow.mp3,ffmpeg,44100,16,2,9303552
+/root/sim/music//501~600/530_Void_Spiral.mp3,ffmpeg,44100,16,2,4034304
+/root/sim/music//501~600/586_Metamorphosis.mp3,ffmpeg,44100,16,2,4235904
+/root/sim/music//501~600/523_駆け出す、追い越す.mp3,ffmpeg,44100,16,2,11831158
+/root/sim/music//501~600/508_Green_Breath.mp3,ffmpeg,44100,16,2,5965527
+/root/sim/music//501~600/533_夢の畔.mp3,ffmpeg,44100,16,2,5294592
+/root/sim/music//501~600/548_Karakuri_Battle.mp3,ffmpeg,44100,16,2,3874176
+/root/sim/music//501~600/587_物置で見つかったセピア色の写真.mp3,ffmpeg,44100,16,2,3251405
+/root/sim/music//501~600/538_夏雲（Natsu-Kumo）.mp3,ffmpeg,44100,16,2,5060211
+/root/sim/music//501~600/505_Summer_Breaks.mp3,ffmpeg,44100,16,2,7056000
+/root/sim/music//501~600/544_九龍城址.mp3,ffmpeg,44100,16,2,8502912
+/root/sim/music//501~600/518_Dark_Lullaby.mp3,ffmpeg,44100,16,2,6232320
+/root/sim/music//501~600/589_silky_sky_away.mp3,ffmpeg,44100,16,2,4983552
+/root/sim/music//501~600/564_出発前の最後の夜.mp3,ffmpeg,44100,16,2,4155264
+/root/sim/music//501~600/534_ネオン、水槽、そしてネコ.mp3,ffmpeg,44100,16,2,4373309
+/root/sim/music//501~600/513_今日は歩きで.mp3,ffmpeg,44100,16,2,4341888
+/root/sim/music//501~600/568_青空と君と(Blue_sky_and_You).mp3,ffmpeg,44100,16,2,5569003
+/root/sim/music//501~600/593_次回もお楽しみに.mp3,ffmpeg,44100,16,2,475453
+/root/sim/music//501~600/557_Time_to_Relax.mp3,ffmpeg,44100,16,2,8010164
+/root/sim/music//501~600/554_ロボットは今日も元気に働く.mp3,ffmpeg,44100,16,2,7042223
+/root/sim/music//501~600/520_jingle13.mp3,ffmpeg,44100,16,2,775296
+/root/sim/music//501~600/575_おしゃれな街.mp3,ffmpeg,44100,16,2,3377325
+/root/sim/music//501~600/539_Bamboo_Girl.mp3,ffmpeg,44100,16,2,6409200

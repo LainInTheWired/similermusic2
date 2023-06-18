@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/尾崎豊/誕生_[Disc_2]/2-06_音のない部屋.mp3,ffmpeg,44100,16,2,11893248

@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Elvis_Presley/Elvis_Best_Hit_In_Japan/20-All_That_I_Am.mp3,ffmpeg,44100,16,2,5989248

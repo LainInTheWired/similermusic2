@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/AC_DC/Back_In_Black/07_You_Shook_Me_All_Night_Long.mp3,ffmpeg,44100,16,2,9271296

@@ -1,0 +1,27 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//201~300/296_Burn_Your_Arms.mp3,ffmpeg,44100,16,2,5503680
+/root/sim/music//201~300/273_旅の朝.mp3,ffmpeg,44100,16,2,9612422
+/root/sim/music//201~300/214_喧騒を忘れて...的なBGM.mp3,ffmpeg,44100,16,2,7302528
+/root/sim/music//201~300/288_Fine_Clover.mp3,ffmpeg,44100,16,2,5082624
+/root/sim/music//201~300/233_新涼.mp3,ffmpeg,44100,16,2,3809664
+/root/sim/music//201~300/294_Isogriv.mp3,ffmpeg,44100,16,2,3738240
+/root/sim/music//201~300/274_秋、深まりて.mp3,ffmpeg,44100,16,2,8598122
+/root/sim/music//201~300/291_或る星に逢いに.mp3,ffmpeg,44100,16,2,5294592
+/root/sim/music//201~300/242_足どり軽く.mp3,ffmpeg,44100,16,2,4188672
+/root/sim/music//201~300/281_LIFE.mp3,ffmpeg,44100,16,2,6662016
+/root/sim/music//201~300/286_クリームソーダ.mp3,ffmpeg,44100,16,2,2679552
+/root/sim/music//201~300/213_もう少し寝ていたいアリス.mp3,ffmpeg,44100,16,2,9147302
+/root/sim/music//201~300/269_Lust_Sword.mp3,ffmpeg,44100,16,2,5997600
+/root/sim/music//201~300/224_碧い星の夢.mp3,ffmpeg,44100,16,2,5082624
+/root/sim/music//201~300/268_Sweet_tea.mp3,ffmpeg,44100,16,2,5796864
+/root/sim/music//201~300/272_流星群の夜に.mp3,ffmpeg,44100,16,2,8535168
+/root/sim/music//201~300/227_danakil.mp3,ffmpeg,44100,16,2,6993908
+/root/sim/music//201~300/270_Eremophila.mp3,ffmpeg,44100,16,2,5647104
+/root/sim/music//201~300/226_万緑の芽吹き.mp3,ffmpeg,44100,16,2,7393536
+/root/sim/music//201~300/229_狂気のオルゴール.mp3,ffmpeg,44100,16,2,3931201
+/root/sim/music//201~300/252_Breeze.mp3,ffmpeg,44100,16,2,4360320
+/root/sim/music//201~300/282_闇に潜めし者.mp3,ffmpeg,44100,16,2,2119680
+/root/sim/music//201~300/279_虹の宙.mp3,ffmpeg,44100,16,2,10465920
+/root/sim/music//1~100/41_かけっこ競争.mp3,ffmpeg,44100,16,2,2829312
+/root/sim/music//1~100/26_青空空港.mp3,ffmpeg,44100,16,2,2444904
+/root/sim/music//1~100/68_情動カタルシス.mp3,ffmpeg,44100,16,2,13732992

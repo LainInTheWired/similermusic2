@@ -1,0 +1,27 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//901~1000/923_Hold_Days.mp3,ffmpeg,44100,16,2,5985434
+/root/sim/music//901~1000/933_Certain_Curse.mp3,ffmpeg,44100,16,2,5156352
+/root/sim/music//901~1000/954_Calm_Landscape.mp3,ffmpeg,44100,16,2,5909760
+/root/sim/music//901~1000/924_Victory_march.mp3,ffmpeg,44100,16,2,3292416
+/root/sim/music//901~1000/938_夜風と街明かり.mp3,ffmpeg,44100,16,2,6329088
+/root/sim/music//901~1000/973_Sweet_Pea_Home.mp3,ffmpeg,44100,16,2,5909760
+/root/sim/music//901~1000/961_時を刻む森.mp3,ffmpeg,44100,16,2,7031808
+/root/sim/music//901~1000/910_愛哀傘.mp3,ffmpeg,44100,16,2,8079666
+/root/sim/music//901~1000/906_Sunlight.mp3,ffmpeg,44100,16,2,4425984
+/root/sim/music//901~1000/985_開かずの子供部屋.mp3,ffmpeg,44100,16,2,5989248
+/root/sim/music//901~1000/995_Another_Meeting.mp3,ffmpeg,44100,16,2,7112447
+/root/sim/music//901~1000/996_陽だまりの休日.mp3,ffmpeg,44100,16,2,7894605
+/root/sim/music//901~1000/992_Crank.mp3,ffmpeg,44100,16,2,8761727
+/root/sim/music//901~1000/935_Sparkling_Rain.mp3,ffmpeg,44100,16,2,10425600
+/root/sim/music//901~1000/971_2049ers.mp3,ffmpeg,44100,16,2,7580160
+/root/sim/music//901~1000/968_夜更かしのアルペジオ.mp3,ffmpeg,44100,16,2,6640941
+/root/sim/music//901~1000/994_foundations_of_society.mp3,ffmpeg,44100,16,2,7252000
+/root/sim/music//901~1000/942_Maiko.mp3,ffmpeg,44100,16,2,8599500
+"/root/sim/music//901~1000/926_優しい呼吸で(Breath,tenderly).mp3",ffmpeg,44100,16,2,8026200
+/root/sim/music//901~1000/952_サテライト.mp3,ffmpeg,44100,16,2,5346432
+/root/sim/music//501~600/563_コッペパン日和.mp3,ffmpeg,44100,16,2,4840704
+/root/sim/music//501~600/591_水辺の生き物.mp3,ffmpeg,44100,16,2,4413312
+/root/sim/music//501~600/576_掘り起こされし晩餐会.mp3,ffmpeg,44100,16,2,7094456
+/root/sim/music//501~600/583_静かな雨の向こうに.mp3,ffmpeg,44100,16,2,5490432
+/root/sim/music//501~600/507_スイーツ日和.mp3,ffmpeg,44100,16,2,5594112
+/root/sim/music//501~600/546_Dimension_Patrol.mp3,ffmpeg,44100,16,2,6742400

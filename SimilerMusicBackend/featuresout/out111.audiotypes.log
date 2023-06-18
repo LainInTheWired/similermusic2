@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Backstreet_Boys/The_Hits__Chapter_One/15_More_Than_That.mp3,ffmpeg,44100,16,2,9880704

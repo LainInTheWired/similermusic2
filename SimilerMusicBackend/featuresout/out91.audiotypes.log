@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/The_Beatles/1_ザ・ビートルズ/08_Eight_Days_A_Week.mp3,ffmpeg,44100,16,2,7249536

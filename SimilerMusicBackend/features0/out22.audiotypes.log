@@ -1,0 +1,27 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//101~200/183_wet_day.mp3,ffmpeg,44100,16,2,8887680
+/root/sim/music//101~200/114_寝坊熊の優雅な朝食.mp3,ffmpeg,44100,16,2,8102016
+/root/sim/music//101~200/161_Contrail.mp3,ffmpeg,44100,16,2,5647104
+/root/sim/music//101~200/132_安らぎジングル.mp3,ffmpeg,44100,16,2,1211904
+/root/sim/music//101~200/182_Sunshower.mp3,ffmpeg,44100,16,2,8897969
+/root/sim/music//101~200/107_和テイスト.mp3,ffmpeg,44100,16,2,10749312
+/root/sim/music//101~200/199_Reputation.mp3,ffmpeg,44100,16,2,8075200
+/root/sim/music//101~200/147_Swells_Like_Luck.mp3,ffmpeg,44100,16,2,6809560
+/root/sim/music//101~200/160_泣いてもいいさ、明日がある.mp3,ffmpeg,44100,16,2,4316544
+/root/sim/music//101~200/187_Let_Me_Dance.mp3,ffmpeg,44100,16,2,8778240
+/root/sim/music//101~200/175_ナクシタカタチ.mp3,ffmpeg,44100,16,2,6156288
+/root/sim/music//101~200/129_小さな一本の木.mp3,ffmpeg,44100,16,2,4690829
+/root/sim/music//101~200/174_水の世界.mp3,ffmpeg,44100,16,2,9184711
+/root/sim/music//101~200/152_森にて.mp3,ffmpeg,44100,16,2,4211550
+/root/sim/music//101~200/116_ABSOLUTE_FUNNY_FIELD.mp3,ffmpeg,44100,16,2,5808384
+/root/sim/music//101~200/115_魔法使いと振り子時計.mp3,ffmpeg,44100,16,2,7252992
+/root/sim/music//101~200/200_火曜日の小旅行.mp3,ffmpeg,44100,16,2,8256500
+/root/sim/music//101~200/167_いい湯に浸かれば.mp3,ffmpeg,44100,16,2,4932864
+/root/sim/music//101~200/150_あかいいと.mp3,ffmpeg,44100,16,2,5924924
+/root/sim/music//101~200/148_Cosmic_Fantasy.mp3,ffmpeg,44100,16,2,5619456
+/root/sim/music//101~200/131_Aguni.mp3,ffmpeg,44100,16,2,4940928
+/root/sim/music//101~200/181_空からの届け物.mp3,ffmpeg,44100,16,2,5212800
+/root/sim/music//101~200/179_秋雨と共に(Autumn_rain_with_you).mp3,ffmpeg,44100,16,2,7921463
+/root/sim/music//101~200/118_おもしろすぎてどっかん.mp3,ffmpeg,44100,16,2,2860416
+/root/sim/music//101~200/164_夜のドライブ.mp3,ffmpeg,44100,16,2,7146317
+/root/sim/music//101~200/153_休日のアクアリウム.mp3,ffmpeg,44100,16,2,3940992

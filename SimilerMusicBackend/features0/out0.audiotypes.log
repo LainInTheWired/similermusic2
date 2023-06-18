@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//301~400/330_傷ついて.mp3,ffmpeg,44100,16,2,6000768
+/root/sim/music//301~400/369_酒場.mp3,ffmpeg,44100,16,2,4070765
+/root/sim/music//301~400/354_Acid_Magazine.mp3,ffmpeg,44100,16,2,6428800
+/root/sim/music//301~400/362_jingle14.mp3,ffmpeg,44100,16,2,1450368
+/root/sim/music//301~400/390_かけっこ.mp3,ffmpeg,44100,16,2,4295857
+/root/sim/music//301~400/334_Rock_and_Roll_66.mp3,ffmpeg,44100,16,2,3631104
+/root/sim/music//301~400/344_White_Ringing.mp3,ffmpeg,44100,16,2,6815232
+/root/sim/music//301~400/350_私の日課。.mp3,ffmpeg,44100,16,2,7100100
+/root/sim/music//301~400/317_Berry.mp3,ffmpeg,44100,16,2,4621824
+/root/sim/music//301~400/315_Afternoon_Fountain.mp3,ffmpeg,44100,16,2,2726784
+/root/sim/music//301~400/384_綾風.mp3,ffmpeg,44100,16,2,784720
+/root/sim/music//301~400/320_別れ.mp3,ffmpeg,44100,16,2,4445280
+/root/sim/music//301~400/388_Weekend_Garage.mp3,ffmpeg,44100,16,2,4460400
+/root/sim/music//301~400/351_不気味な人形.mp3,ffmpeg,44100,16,2,4498200
+/root/sim/music//301~400/308_疑心暗鬼.mp3,ffmpeg,44100,16,2,2447550
+/root/sim/music//301~400/378_End_of_Holiday.mp3,ffmpeg,44100,16,2,5216400
+/root/sim/music//301~400/393_Flowers_at_night.mp3,ffmpeg,44100,16,2,6650985
+/root/sim/music//301~400/382_2番テーブル、オム1デミハン1.mp3,ffmpeg,44100,16,2,2731354
+/root/sim/music//301~400/356_Wind_Blowing_Up.mp3,ffmpeg,44100,16,2,4940928
+/root/sim/music//301~400/373_オレンジ・ペコー.mp3,ffmpeg,44100,16,2,7572797
+/root/sim/music//301~400/302_真理からの呼び声.mp3,ffmpeg,44100,16,2,7082019
+/root/sim/music//301~400/375_悪魔軍総司令官_魂悪喰者ヴァイス_.mp3,ffmpeg,44100,16,2,7452900
+/root/sim/music//301~400/392_Sunshine_Park.mp3,ffmpeg,44100,16,2,4425984
+/root/sim/music//301~400/340_Mellow_Mellow.mp3,ffmpeg,44100,16,2,9502133
+/root/sim/music//301~400/376_Waiting_for_You.mp3,ffmpeg,44100,16,2,10470528

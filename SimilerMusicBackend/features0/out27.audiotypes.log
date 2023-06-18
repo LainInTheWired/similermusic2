@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//601~700/631_夏休み.mp3,ffmpeg,44100,16,2,9497088
+/root/sim/music//601~700/685_アメリカザリガニは雲形定規を欲しがるのか.mp3,ffmpeg,44100,16,2,3202719
+/root/sim/music//601~700/617_The_Defeater.mp3,ffmpeg,44100,16,2,4235904
+/root/sim/music//601~700/642_街を歩けば.mp3,ffmpeg,44100,16,2,2697984
+/root/sim/music//601~700/647_迷子.mp3,ffmpeg,44100,16,2,8290821
+/root/sim/music//601~700/665_はじまりの予感.mp3,ffmpeg,44100,16,2,8048250
+/root/sim/music//601~700/601_Wake_Me_Up.mp3,ffmpeg,44100,16,2,7940736
+/root/sim/music//601~700/609_夏の終わり.mp3,ffmpeg,44100,16,2,3463085
+/root/sim/music//601~700/672_vigilant.mp3,ffmpeg,44100,16,2,5633280
+/root/sim/music//601~700/619_百鬼夜行.mp3,ffmpeg,44100,16,2,11809087
+/root/sim/music//601~700/638_雨が止むまで.mp3,ffmpeg,44100,16,2,9812736
+/root/sim/music//601~700/618_お菓子作り.mp3,ffmpeg,44100,16,2,7124091
+/root/sim/music//601~700/653_A_Morning_In_The_Forest.mp3,ffmpeg,44100,16,2,6232800
+/root/sim/music//601~700/630_Fly_With_Dreams.mp3,ffmpeg,44100,16,2,5490432
+/root/sim/music//601~700/625_ごきげんバブりん.mp3,ffmpeg,44100,16,2,6098688
+/root/sim/music//601~700/613_いつかきっと.mp3,ffmpeg,44100,16,2,4500864
+/root/sim/music//601~700/681_星灯りの夜.mp3,ffmpeg,44100,16,2,6560640
+/root/sim/music//601~700/612_忍ぶ想い.mp3,ffmpeg,44100,16,2,5671965
+/root/sim/music//701~800/714_ぱぱぱぱにっ子.mp3,ffmpeg,44100,16,2,4123008
+/root/sim/music//701~800/701_手のひらにレインボウ.mp3,ffmpeg,44100,16,2,7758720
+/root/sim/music//701~800/794_元気をだして.mp3,ffmpeg,44100,16,2,4589568
+/root/sim/music//701~800/738_雨音落ちる日.mp3,ffmpeg,44100,16,2,14817600
+/root/sim/music//701~800/704_Summer_Walks.mp3,ffmpeg,44100,16,2,3413376
+/root/sim/music//701~800/743_わるいたくらみ.mp3,ffmpeg,44100,16,2,4299750
+/root/sim/music//701~800/778_Fun_Board_Game.mp3,ffmpeg,44100,16,2,2354688

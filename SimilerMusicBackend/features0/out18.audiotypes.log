@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//501~600/584_Hey_Sashi.mp3,ffmpeg,44100,16,2,5334134
+/root/sim/music//501~600/579_OPED用ジングル23.mp3,ffmpeg,44100,16,2,615989
+/root/sim/music//501~600/574_入道雲の下、大海原.mp3,ffmpeg,44100,16,2,6309551
+/root/sim/music//501~600/595_Sky_High_Station.mp3,ffmpeg,44100,16,2,7167485
+/root/sim/music//501~600/519_夏の昼下がり.mp3,ffmpeg,44100,16,2,9114624
+/root/sim/music//501~600/553_Sawayaka_Flow.mp3,ffmpeg,44100,16,2,4316544
+/root/sim/music//501~600/596_Floating_Yellow_Hammock_M346.mp3,ffmpeg,44100,16,2,4190976
+/root/sim/music//501~600/585_Terminal_Criminal.mp3,ffmpeg,44100,16,2,6676062
+/root/sim/music//501~600/578_Dazzling_Days.mp3,ffmpeg,44100,16,2,6036800
+/root/sim/music//501~600/527_涼風薫る宵.mp3,ffmpeg,44100,16,2,3494925
+/root/sim/music//501~600/540_神秘の森.mp3,ffmpeg,44100,16,2,4811904
+/root/sim/music//501~600/555_芸術っぽいサムシング.mp3,ffmpeg,44100,16,2,4610391
+/root/sim/music//501~600/529_Light_Lags.mp3,ffmpeg,44100,16,2,7338240
+/root/sim/music//501~600/588_親愛なる仲間たちとのメモリー的なBGM.mp3,ffmpeg,44100,16,2,2557440
+/root/sim/music//501~600/502_Ice_Green_Tea!.mp3,ffmpeg,44100,16,2,5915520
+/root/sim/music//501~600/537_Someday.mp3,ffmpeg,44100,16,2,10770279
+/root/sim/music//501~600/524_夕涼み.mp3,ffmpeg,44100,16,2,6489216
+/root/sim/music//501~600/581_Jewel.mp3,ffmpeg,44100,16,2,3883392
+/root/sim/music//501~600/516_Feel_at_Ease.mp3,ffmpeg,44100,16,2,7945191
+/root/sim/music//501~600/566_水平線の向こう.mp3,ffmpeg,44100,16,2,5296896
+/root/sim/music//501~600/532_こびとの家へようこそ.mp3,ffmpeg,44100,16,2,7615872
+/root/sim/music//501~600/571_to_Seasons.mp3,ffmpeg,44100,16,2,5067648
+/root/sim/music//501~600/501_謎.mp3,ffmpeg,44100,16,2,4630500
+/root/sim/music//501~600/514_柴犬と高架橋にて.mp3,ffmpeg,44100,16,2,8696448
+/root/sim/music//501~600/551_Free_Flight.mp3,ffmpeg,44100,16,2,6838893

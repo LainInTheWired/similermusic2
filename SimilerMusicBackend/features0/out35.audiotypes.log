@@ -1,0 +1,27 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//401~500/449_夏、夜、海岸.mp3,ffmpeg,44100,16,2,5670144
+/root/sim/music//401~500/406_Stella.mp3,ffmpeg,44100,16,2,5812992
+/root/sim/music//401~500/487_Melting_Summer.mp3,ffmpeg,44100,16,2,8467200
+/root/sim/music//401~500/425_裏切り.mp3,ffmpeg,44100,16,2,7843803
+/root/sim/music//401~500/443_37564.mp3,ffmpeg,44100,16,2,6306048
+/root/sim/music//401~500/412_南国の海.mp3,ffmpeg,44100,16,2,3704400
+/root/sim/music//401~500/438_木の実あつめ.mp3,ffmpeg,44100,16,2,6168960
+/root/sim/music//401~500/447_The_Black_Lotus.mp3,ffmpeg,44100,16,2,5812992
+/root/sim/music//401~500/496_macaron_road.mp3,ffmpeg,44100,16,2,4821120
+/root/sim/music//401~500/408_Over_Time.mp3,ffmpeg,44100,16,2,7083139
+/root/sim/music//401~500/418_セミの一生.mp3,ffmpeg,44100,16,2,5684667
+/root/sim/music//401~500/491_妖精の子守歌.mp3,ffmpeg,44100,16,2,6618240
+/root/sim/music//401~500/497_August_Cycles.mp3,ffmpeg,44100,16,2,6106154
+/root/sim/music//401~500/435_期待しないで待っててね.mp3,ffmpeg,44100,16,2,9784908
+/root/sim/music//401~500/403_クラゲのすみか.mp3,ffmpeg,44100,16,2,5992704
+/root/sim/music//801~900/893_The_Enemy_Inside.mp3,ffmpeg,44100,16,2,3705984
+/root/sim/music//801~900/854_マドセロナ.mp3,ffmpeg,44100,16,2,1649664
+/root/sim/music//801~900/895_Delta_Formation.mp3,ffmpeg,44100,16,2,3765888
+/root/sim/music//801~900/837_眠りの国の妖精さん.mp3,ffmpeg,44100,16,2,6346368
+/root/sim/music//801~900/858_不思議な部屋.mp3,ffmpeg,44100,16,2,3617280
+/root/sim/music//801~900/855_Night_Scan.mp3,ffmpeg,44100,16,2,6943104
+/root/sim/music//801~900/839_ピンクとブルー.mp3,ffmpeg,44100,16,2,7348449
+/root/sim/music//801~900/827_この世の雨が全部、私に降ってるみたいだった。.mp3,ffmpeg,44100,16,2,4162688
+/root/sim/music//801~900/819_sincere.mp3,ffmpeg,44100,16,2,4829184
+/root/sim/music//801~900/861_あの星はもう二度と見えない.mp3,ffmpeg,44100,16,2,6609708
+/root/sim/music//801~900/815_廃墟のメリーゴーラウンド.mp3,ffmpeg,44100,16,2,8565120

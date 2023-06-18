@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Queen/Made_In_Heaven/06_I_Was_Born_To_Love_You.mp3,ffmpeg,44100,16,2,12782592

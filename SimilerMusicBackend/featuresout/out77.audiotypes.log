@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Queen/The_Game/04_Need_Your_Loving_Tonight.mp3,ffmpeg,44100,16,2,7461504

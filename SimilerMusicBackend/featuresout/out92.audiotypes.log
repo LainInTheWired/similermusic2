@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/The_Beatles/1962-1966_[Disc_1]/01_Love_Me_Do.mp3,ffmpeg,44100,16,2,6331392

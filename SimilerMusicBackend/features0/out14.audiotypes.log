@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//901~1000/940_Wind_Motion.mp3,ffmpeg,44100,16,2,5406336
+/root/sim/music//901~1000/967_Place_to_Return_to.mp3,ffmpeg,44100,16,2,8467200
+/root/sim/music//901~1000/993_pigeon_is_walking.mp3,ffmpeg,44100,16,2,3866112
+/root/sim/music//901~1000/955__Jolly_Holiday.mp3,ffmpeg,44100,16,2,6652800
+/root/sim/music//901~1000/962_TSUBAKI.mp3,ffmpeg,44100,16,2,4235904
+/root/sim/music//901~1000/904_let&#039s_cook!.mp3,ffmpeg,44100,16,2,3342316
+/root/sim/music//901~1000/980_思い出のピアノ.mp3,ffmpeg,44100,16,2,7557120
+/root/sim/music//901~1000/969_私はまだ、約束を思い出せずにいる.mp3,ffmpeg,44100,16,2,3875288
+/root/sim/music//901~1000/951_World_of_Toys.mp3,ffmpeg,44100,16,2,4235904
+/root/sim/music//901~1000/957_紫煙.mp3,ffmpeg,44100,16,2,6945750
+/root/sim/music//901~1000/934_Around_the_Darkness.mp3,ffmpeg,44100,16,2,4284288
+/root/sim/music//901~1000/999_Rain_Whisper.mp3,ffmpeg,44100,16,2,6197760
+/root/sim/music//901~1000/958_バナーナ.mp3,ffmpeg,44100,16,2,1837440
+/root/sim/music//901~1000/979_雨音のワルツ.mp3,ffmpeg,44100,16,2,7257600
+/root/sim/music//901~1000/1000_おつかれさま.mp3,ffmpeg,44100,16,2,7617540
+/root/sim/music//901~1000/939_デイドリーム.mp3,ffmpeg,44100,16,2,3968810
+/root/sim/music//901~1000/929_scenary_blue.mp3,ffmpeg,44100,16,2,6776064
+/root/sim/music//901~1000/956_坂道を駆け抜けて.mp3,ffmpeg,44100,16,2,5470848
+/root/sim/music//901~1000/988_G.mp3,ffmpeg,44100,16,2,3389184
+/root/sim/music//901~1000/984_クレショフの憂鬱.mp3,ffmpeg,44100,16,2,9707904
+/root/sim/music//901~1000/965_フクロウのテーマ.mp3,ffmpeg,44100,16,2,4942080
+/root/sim/music//901~1000/918_Doubt.mp3,ffmpeg,44100,16,2,2951424
+/root/sim/music//901~1000/917_スラッシュカッター.mp3,ffmpeg,44100,16,2,2965637
+/root/sim/music//901~1000/944_蘭花.mp3,ffmpeg,44100,16,2,6687360
+/root/sim/music//901~1000/966_イレギュリズム.mp3,ffmpeg,44100,16,2,4255650

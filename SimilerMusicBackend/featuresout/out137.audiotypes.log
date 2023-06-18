@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/FIRE_BOMBER/ACOUSTIC_FIRE!!/10_ON_THE_WIND_(Acoustic_Ver.).mp3,ffmpeg,44100,16,2,12059409

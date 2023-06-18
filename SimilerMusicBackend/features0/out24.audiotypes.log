@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//601~700/615_町の喫茶店.mp3,ffmpeg,44100,16,2,5082624
+/root/sim/music//601~700/689_私のチープな25時。.mp3,ffmpeg,44100,16,2,8813952
+/root/sim/music//601~700/659_Rough_Driving.mp3,ffmpeg,44100,16,2,6569378
+/root/sim/music//601~700/664_Raindrop.mp3,ffmpeg,44100,16,2,7116360
+/root/sim/music//601~700/646_海沿いロードウェイ.mp3,ffmpeg,44100,16,2,7294875
+/root/sim/music//601~700/637_チョウチンアンコウの声.mp3,ffmpeg,44100,16,2,3108521
+/root/sim/music//601~700/697_雨傘とおでかけ.mp3,ffmpeg,44100,16,2,8942500
+/root/sim/music//601~700/677_Candy_Bass.mp3,ffmpeg,44100,16,2,8413056
+/root/sim/music//601~700/629_Cocktail_In_Beach.mp3,ffmpeg,44100,16,2,6513231
+/root/sim/music//601~700/682_ジャジーなアイキャッチ.mp3,ffmpeg,44100,16,2,359856
+/root/sim/music//601~700/636_Floor_Beast.mp3,ffmpeg,44100,16,2,6507200
+/root/sim/music//601~700/662_One_dream.mp3,ffmpeg,44100,16,2,3899520
+/root/sim/music//601~700/692_あの頃の日記.mp3,ffmpeg,44100,16,2,5705856
+/root/sim/music//601~700/645_Delightful_Daily_Life.mp3,ffmpeg,44100,16,2,4261452
+/root/sim/music//601~700/698_エンディング.mp3,ffmpeg,44100,16,2,9128700
+/root/sim/music//601~700/668_ardor.mp3,ffmpeg,44100,16,2,5692032
+/root/sim/music//601~700/622_A_Summer_Wonder.mp3,ffmpeg,44100,16,2,8326080
+/root/sim/music//601~700/684_Have_a_nice_day!.mp3,ffmpeg,44100,16,2,778641
+/root/sim/music//601~700/640_Dear_Sir_Einstein.mp3,ffmpeg,44100,16,2,14212800
+/root/sim/music//601~700/632_春風の街.mp3,ffmpeg,44100,16,2,5190570
+/root/sim/music//601~700/660_ねこワールド.mp3,ffmpeg,44100,16,2,4235904
+/root/sim/music//601~700/641_潮騒（Shiosai）.mp3,ffmpeg,44100,16,2,7408800
+/root/sim/music//601~700/611_Phantom_Ring_Finger.mp3,ffmpeg,44100,16,2,5404032
+/root/sim/music//601~700/657_悲しみで咲く花.mp3,ffmpeg,44100,16,2,6347567
+/root/sim/music//601~700/605_Late_Summer_Afternoon.mp3,ffmpeg,44100,16,2,6902609

@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/エレファントカシマシ/WAKE_UP/04_夢を追う旅人.mp3,ffmpeg,44100,16,2,11448576

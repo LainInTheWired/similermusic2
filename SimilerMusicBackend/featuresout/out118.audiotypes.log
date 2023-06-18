@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Sex_Pistols/Jubilee/03_Pretty_Vacant.mp3,ffmpeg,44100,16,2,8674560

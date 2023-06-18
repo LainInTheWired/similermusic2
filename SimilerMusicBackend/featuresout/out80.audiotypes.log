@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Queen/Queen_In_Vision/06_We_Will_Rock_You.mp3,ffmpeg,44100,16,2,5378688

@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/倖田來未_&_BoA/THE_GREATEST_HITS_-小室哲哉作品集_a-_[Disc_1]/11-the_meaning_of_peace.mp3,ffmpeg,44100,16,2,13314816

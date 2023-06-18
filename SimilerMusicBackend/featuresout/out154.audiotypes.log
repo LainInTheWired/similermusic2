@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+"/root/sim/music/out/Aerosmith/O,_Yeah!_Ultimate_Aerosmith_Hits_[Disc_2]/07_Falling_In_Love_(Is_Hard_On_The_Knees).mp3",ffmpeg,44100,16,2,9197568

@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/09_I_Don't_Want_To_Miss_A_Thing.mp3,ffmpeg,44100,16,2,13220352

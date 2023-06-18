@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/いとうかなこ/Reactor/07-悠久ノ空咲ク花.mp3,ffmpeg,44100,16,2,11499264

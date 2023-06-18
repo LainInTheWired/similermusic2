@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Queen/News_Of_The_World/03_Sheer_Heart_Attack.mp3,ffmpeg,44100,16,2,9144576

@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Bob_Dylan/The_Very_Best_Of_[Disc_1]/01_Like_A_Rolling_Stone.mp3,ffmpeg,44100,16,2,16344576

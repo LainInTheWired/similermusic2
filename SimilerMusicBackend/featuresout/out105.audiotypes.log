@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Oasis/oasis-definitely_maybe_remastered_deluxe_edition/3-42_Married_With_Children_(Demo).mp3,ffmpeg,44100,16,2,8649216

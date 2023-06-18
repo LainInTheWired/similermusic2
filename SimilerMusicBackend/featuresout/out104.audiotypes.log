@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Oasis/oasis-definitely_maybe_remastered_deluxe_edition/2-12_Columbia_(White_Label_Demo)_(Remastered).mp3,ffmpeg,44100,16,2,14496768

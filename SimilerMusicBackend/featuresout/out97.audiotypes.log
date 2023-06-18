@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Oasis/Time_Flies..._1994-2009_[Disc_1]/1-09_The_Hindu_Times_1.mp3,ffmpeg,44100,16,2,10268597

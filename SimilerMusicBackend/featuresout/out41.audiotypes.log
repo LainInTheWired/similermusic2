@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/エレファントカシマシ/THE_FIGHTING_MAN_[Disc_2]/15_ファイティングマン.mp3,ffmpeg,44100,16,2,9856512

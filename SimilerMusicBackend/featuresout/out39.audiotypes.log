@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/中島みゆき/Singles_2000/02_ヘッドライト・テールライト.mp3,ffmpeg,44100,16,2,13198464

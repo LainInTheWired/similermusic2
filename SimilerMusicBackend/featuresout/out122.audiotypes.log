@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/The_Smiths/The_Smiths/07_Still_Ill.mp3,ffmpeg,44100,16,2,8855424

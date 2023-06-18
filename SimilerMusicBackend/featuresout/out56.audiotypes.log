@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/宇多田ヒカル/初恋/01-Play_A_Love_Song.mp3,ffmpeg,44100,16,2,11155968

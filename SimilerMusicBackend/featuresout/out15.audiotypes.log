@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/オフコース/i_(ai)_[Disc_2]/01_僕等の時代.mp3,ffmpeg,44100,16,2,10256256

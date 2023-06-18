@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+"/root/sim/music/out/Beady_Eye/Different_Gear,_Still_Speeding_[Bonus_Tr/01_Four_Letter_Word.mp3",ffmpeg,44100,16,2,11312640

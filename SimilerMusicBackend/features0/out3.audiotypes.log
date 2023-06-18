@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//301~400/314_アイドル.mp3,ffmpeg,44100,16,2,3373650
+/root/sim/music//301~400/329_緑の楽園.mp3,ffmpeg,44100,16,2,6431250
+/root/sim/music//301~400/328_pampas_grass.mp3,ffmpeg,44100,16,2,5909760
+/root/sim/music//301~400/387_大正セピア.mp3,ffmpeg,44100,16,2,5774976
+/root/sim/music//301~400/399_伏魔殿.mp3,ffmpeg,44100,16,2,12277725
+/root/sim/music//301~400/371_彗星に乗って.mp3,ffmpeg,44100,16,2,4643712
+/root/sim/music//301~400/324_酒飲んでたおじさん.mp3,ffmpeg,44100,16,2,2119680
+/root/sim/music//301~400/331_Walking_Towards_Tomorrow.mp3,ffmpeg,44100,16,2,6048000
+/root/sim/music//301~400/400_馬車に揺られて.mp3,ffmpeg,44100,16,2,4236750
+/root/sim/music//301~400/377_Piano_Improvisation_(2022825_Take_2).mp3,ffmpeg,44100,16,2,4500317
+/root/sim/music//301~400/333_Fall_Breeze.mp3,ffmpeg,44100,16,2,3861504
+/root/sim/music//301~400/342_Loose_Day_Blues.mp3,ffmpeg,44100,16,2,3792600
+/root/sim/music//301~400/343_秋晴れの空に.mp3,ffmpeg,44100,16,2,4991270
+/root/sim/music//301~400/303_Fear_of_Machine.mp3,ffmpeg,44100,16,2,5603294
+/root/sim/music//301~400/360_Autumn_mail.mp3,ffmpeg,44100,16,2,5846400
+/root/sim/music//301~400/339_We_are_Friends!.mp3,ffmpeg,44100,16,2,7017984
+/root/sim/music//301~400/305_Truly.mp3,ffmpeg,44100,16,2,9874098
+/root/sim/music//301~400/374_花影.mp3,ffmpeg,44100,16,2,3943296
+/root/sim/music//301~400/394_Moon_Magic.mp3,ffmpeg,44100,16,2,1641600
+/root/sim/music//301~400/358_ケルベロス.mp3,ffmpeg,44100,16,2,14832800
+/root/sim/music//301~400/397_Knock_on_the_Door_in_the_Midnight.mp3,ffmpeg,44100,16,2,7938000
+/root/sim/music//301~400/364_Evil_Jackal.mp3,ffmpeg,44100,16,2,3801600
+"/root/sim/music//301~400/327_Bye-bye,_Cherry_Blossom_Road.mp3",ffmpeg,44100,16,2,9309312
+/root/sim/music//301~400/385_New_World.mp3,ffmpeg,44100,16,2,8128512
+/root/sim/music//201~300/209_Old_Town.mp3,ffmpeg,44100,16,2,4790016

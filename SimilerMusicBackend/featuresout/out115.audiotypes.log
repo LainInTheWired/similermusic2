@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Chicago/The_Very_Best_of_Chicago__Only_the_Begin/1-19_If_You_Leave_Me_Now.mp3,ffmpeg,44100,16,2,10444032

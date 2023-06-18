@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Various_Artists/Everybody_Loves_Somebody_～_うさぎ山から愛をこめて/08_恋の歌(劇中歌).mp3,ffmpeg,44100,16,2,8186112

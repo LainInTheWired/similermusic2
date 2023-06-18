@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Various_Artists/TETSUYA_KOMURO_ARCHIVES__T__[Disc_2]/01-Body_Feels_EXIT.mp3,ffmpeg,44100,16,2,11713536

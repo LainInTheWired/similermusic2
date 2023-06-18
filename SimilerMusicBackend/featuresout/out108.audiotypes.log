@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Bruce_Springsteen/Born_To_Run/05_Born_To_Run.mp3,ffmpeg,44100,16,2,11922048

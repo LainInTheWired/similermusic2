@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/あいみょん/憎まれっ子に憚る/03-好きって言ってよ(1).mp3,ffmpeg,44100,16,2,9857664

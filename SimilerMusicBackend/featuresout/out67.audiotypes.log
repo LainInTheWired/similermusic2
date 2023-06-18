@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Compilations/20th_ANNIVERSARY_OF_PERSONA_SERIES_ALL_T/4-16_Long_Way.mp3,ffmpeg,44100,16,2,6331349

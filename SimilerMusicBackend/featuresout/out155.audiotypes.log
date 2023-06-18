@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Aerosmith/マキシマム・ヘﾞスト/07_スウィート・エモーション.mp3,ffmpeg,44100,16,2,12131712

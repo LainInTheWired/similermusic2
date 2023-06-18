@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Oasis/Time_Flies..._1994-2009_[Disc_2]/2-08_Little_By_Little.mp3,ffmpeg,44100,16,2,12956544

@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//101~200/177_晴れの日.mp3,ffmpeg,44100,16,2,4410000
+/root/sim/music//101~200/128_Freedom_Dance.mp3,ffmpeg,44100,16,2,4148928
+/root/sim/music//101~200/134_われわれはどこへいくのか.mp3,ffmpeg,44100,16,2,4906126
+/root/sim/music//101~200/196_Welcome_to_haunted_house_(SEあり・なし).mp3,ffmpeg,44100,16,2,6737775
+/root/sim/music//101~200/169_Rain_in_the_shade_of_a_tree_.mp3,ffmpeg,44100,16,2,10223085
+/root/sim/music//101~200/111_eye-catch.mp3,ffmpeg,44100,16,2,664704
+/root/sim/music//101~200/171_City_Street.mp3,ffmpeg,44100,16,2,5341824
+/root/sim/music//101~200/194_歩み.mp3,ffmpeg,44100,16,2,1767168
+/root/sim/music//101~200/146_花夜行.mp3,ffmpeg,44100,16,2,9819142
+/root/sim/music//101~200/188_森の掲示板.mp3,ffmpeg,44100,16,2,6247501
+/root/sim/music//101~200/139_Phone_Thinker.mp3,ffmpeg,44100,16,2,3465216
+/root/sim/music//101~200/141_よちよち歩き.mp3,ffmpeg,44100,16,2,617400
+/root/sim/music//101~200/144_マイペースでいこう.mp3,ffmpeg,44100,16,2,2353536
+/root/sim/music//101~200/137_For_U.mp3,ffmpeg,44100,16,2,6444288
+/root/sim/music//101~200/185_Brief_Respite.mp3,ffmpeg,44100,16,2,6967800
+/root/sim/music//101~200/112_New_Departure.mp3,ffmpeg,44100,16,2,4125312
+/root/sim/music//101~200/104_おやおや？.mp3,ffmpeg,44100,16,2,5198976
+/root/sim/music//101~200/123_はれたまぶた.mp3,ffmpeg,44100,16,2,6409671
+/root/sim/music//101~200/103_START!!.mp3,ffmpeg,44100,16,2,710784
+/root/sim/music//101~200/138_Autumn_Piano.mp3,ffmpeg,44100,16,2,7408800
+/root/sim/music//101~200/159_Monday_Outing.mp3,ffmpeg,44100,16,2,7526400
+/root/sim/music//101~200/189_トランセンド.mp3,ffmpeg,44100,16,2,9616896
+/root/sim/music//101~200/195_Dance_in_Arcade.mp3,ffmpeg,44100,16,2,4635648
+/root/sim/music//101~200/102_楽しい帰り道.mp3,ffmpeg,44100,16,2,3324672
+/root/sim/music//101~200/192_The_Strategy.mp3,ffmpeg,44100,16,2,5293440

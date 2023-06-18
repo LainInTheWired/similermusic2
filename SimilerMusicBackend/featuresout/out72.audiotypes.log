@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+"/root/sim/music/out/Michael_Jackson/HIStory__Past,_Present_And_Future,_Book_1_[Disc_1]/02_The_Way_You_Make_Me_Feel.mp3",ffmpeg,44100,16,2,13109760

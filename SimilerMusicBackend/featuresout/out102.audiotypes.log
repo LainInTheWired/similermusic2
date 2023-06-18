@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Oasis/Definitely_Maybe/08_Cigarettes_&_Alcohol.mp3,ffmpeg,44100,16,2,12769596

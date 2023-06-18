@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/Queen/A_Kind_Of_Magic/06_Who_Wants_To_Live_Forever.mp3,ffmpeg,44100,16,2,13974912

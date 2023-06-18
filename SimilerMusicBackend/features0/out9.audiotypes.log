@@ -1,0 +1,26 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//1~100/37_HIRAHIRA.mp3,ffmpeg,44100,16,2,8529408
+/root/sim/music//1~100/56_楽しく軽快に.mp3,ffmpeg,44100,16,2,2474496
+/root/sim/music//1~100/64_さみしいおばけと東京の月.mp3,ffmpeg,44100,16,2,4421376
+/root/sim/music//1~100/65_8-bit_Aggressive1.mp3,ffmpeg,44100,16,2,5243904
+/root/sim/music//1~100/31_Sunrise.mp3,ffmpeg,44100,16,2,4982948
+/root/sim/music//1~100/29_Recollections.mp3,ffmpeg,44100,16,2,9460224
+/root/sim/music//1~100/52_学び舎の風景.mp3,ffmpeg,44100,16,2,6857373
+/root/sim/music//1~100/92_不老不死.mp3,ffmpeg,44100,16,2,4887936
+/root/sim/music//1~100/16_しゅわしゅわハニーレモン350ml.mp3,ffmpeg,44100,16,2,4280832
+/root/sim/music//1~100/43_orchestral_mission.mp3,ffmpeg,44100,16,2,9198720
+/root/sim/music//1~100/5_かえるのピアノ.mp3,ffmpeg,44100,16,2,4240512
+/root/sim/music//1~100/75_Will_you_still_cry.mp3,ffmpeg,44100,16,2,14596992
+/root/sim/music//1~100/51_極東の羊、テレキャスターと踊る.mp3,ffmpeg,44100,16,2,4745088
+/root/sim/music//1~100/88_残滓念.mp3,ffmpeg,44100,16,2,7155843
+/root/sim/music//1~100/30_追いかけっこキャッハー.mp3,ffmpeg,44100,16,2,5833728
+/root/sim/music//1~100/82_Sparkling sea.mp3,ffmpeg,44100,16,2,11560320
+/root/sim/music//1~100/7_昼下がり気分.mp3,ffmpeg,44100,16,2,10374912
+/root/sim/music//1~100/45_コールドフィッシュ.mp3,ffmpeg,44100,16,2,4019804
+/root/sim/music//1~100/97_ローファイ少女は今日も寝不足.mp3,ffmpeg,44100,16,2,6912675
+/root/sim/music//1~100/85_Trick_style.mp3,ffmpeg,44100,16,2,19109376
+/root/sim/music//1~100/35_夢いっぱいをもう一度.mp3,ffmpeg,44100,16,2,7377048
+/root/sim/music//1~100/1_なんでしょう？.mp3,ffmpeg,44100,16,2,13489920
+/root/sim/music//1~100/36_春よ、強く美しく.mp3,ffmpeg,44100,16,2,5718528
+/root/sim/music//1~100/74_South_Wind.mp3,ffmpeg,44100,16,2,6618240
+/root/sim/music//1~100/53_Parade.mp3,ffmpeg,44100,16,2,7739136

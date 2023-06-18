@@ -1,0 +1,2 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music/out/シャ乱Q/BEST_OF_HISTORY_[Disc_1]/03-とってもメリーゴーランド.mp3,ffmpeg,44100,16,2,10696320

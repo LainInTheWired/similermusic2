@@ -1,0 +1,27 @@
+filename,decoder,samplerate (kHz),samplewidth (bit),n channels,n samples
+/root/sim/music//201~300/260_そらいろ自転車.mp3,ffmpeg,44100,16,2,8317750
+/root/sim/music//201~300/297_夏から秋へ.mp3,ffmpeg,44100,16,2,4470912
+/root/sim/music//201~300/292_Moonshine.mp3,ffmpeg,44100,16,2,4247360
+/root/sim/music//201~300/250_For_Tomorrow.mp3,ffmpeg,44100,16,2,5111424
+/root/sim/music//201~300/243_Luna.mp3,ffmpeg,44100,16,2,2423808
+/root/sim/music//201~300/234_Pony.mp3,ffmpeg,44100,16,2,3543552
+/root/sim/music//201~300/289_いたずら猫.mp3,ffmpeg,44100,16,2,4127089
+/root/sim/music//201~300/254_お気楽散歩道.mp3,ffmpeg,44100,16,2,4235904
+/root/sim/music//201~300/236_揺れるアイボリー.mp3,ffmpeg,44100,16,2,5465088
+/root/sim/music//201~300/278_ゴシックなクーラント.mp3,ffmpeg,44100,16,2,14243948
+/root/sim/music//201~300/232_疑念は侵蝕する.mp3,ffmpeg,44100,16,2,7896960
+/root/sim/music//201~300/201_お化けのマーチ.mp3,ffmpeg,44100,16,2,4185494
+/root/sim/music//201~300/259_Moonlight.mp3,ffmpeg,44100,16,2,5073969
+/root/sim/music//201~300/275_Deep_forest.mp3,ffmpeg,44100,16,2,7352064
+/root/sim/music//201~300/237_スターライト.mp3,ffmpeg,44100,16,2,14708850
+/root/sim/music//201~300/205_Autumn_Elegy.mp3,ffmpeg,44100,16,2,14962601
+/root/sim/music//201~300/277_黒い蝶.mp3,ffmpeg,44100,16,2,5239080
+/root/sim/music//201~300/225_Over_the_Bridge.mp3,ffmpeg,44100,16,2,5420160
+/root/sim/music//201~300/245_Bravo.mp3,ffmpeg,44100,16,2,5156352
+/root/sim/music//201~300/241_Ground_Round.mp3,ffmpeg,44100,16,2,5388218
+/root/sim/music//201~300/211_Loud_on_Road.mp3,ffmpeg,44100,16,2,3998592
+/root/sim/music//201~300/212_優しい心、温かい日.mp3,ffmpeg,44100,16,2,4065469
+/root/sim/music//201~300/287_Night_Wave.mp3,ffmpeg,44100,16,2,7327385
+/root/sim/music//201~300/207_Calendula.mp3,ffmpeg,44100,16,2,4934016
+/root/sim/music//201~300/202_Bloom_Bloom.mp3,ffmpeg,44100,16,2,4942080
+/root/sim/music//201~300/266_Gravity.mp3,ffmpeg,44100,16,2,6227523
